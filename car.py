@@ -11,18 +11,21 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-# Custom CSS for UI styling
+# ------------------- Custom CSS (Dark/Light Mode Compatible) -------------------
 st.markdown("""
     <style>
     .main { padding-top: 1rem; }
-    .stMetric {
-        background-color: #f8f9fa;
+    
+    /* Transparent semi-dark background compatible with Streamlit Dark & Light theme */
+    [data-testid="stMetric"] {
+        background-color: rgba(255, 255, 255, 0.05);
         padding: 15px;
         border-radius: 10px;
-        border: 1px solid #e9ecef;
+        border: 1px solid rgba(255, 255, 255, 0.1);
     }
+    
     .cost-card {
-        background-color: #e8f5e9;
+        background-color: rgba(46, 125, 50, 0.15);
         border-left: 5px solid #2e7d32;
         padding: 20px;
         border-radius: 8px;
@@ -115,7 +118,7 @@ with tab1:
     with col_summary:
         st.subheader("📋 Selected Summary")
         
-        # Vehicle Specs Display Card
+        # Vehicle Specs Display
         st.markdown(f"""
         * **Brand & Model:** {selected_brand} - {selected_car}
         * **Reported Issue:** `{selected_issue}`
@@ -154,8 +157,8 @@ with tab1:
                 # Output Card
                 st.markdown(f"""
                 <div class="cost-card">
-                    <h4 style="margin:0; color:#1b5e20;">Estimated Total Repair Cost</h4>
-                    <h1 style="margin:5px 0; color:#2e7d32;">₹ {predicted_cost:,.2f}</h1>
+                    <h4 style="margin:0; color:#2e7d32;">Estimated Total Repair Cost</h4>
+                    <h1 style="margin:5px 0; color:#4caf50;">₹ {predicted_cost:,.2f}</h1>
                     <small>Estimate includes estimated labor and component replacement costs.</small>
                 </div>
                 """, unsafe_allow_html=True)
