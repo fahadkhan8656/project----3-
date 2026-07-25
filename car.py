@@ -1,103 +1,188 @@
 import streamlit as st
 import pandas as pd
 import joblib
+import plotly.express as px
 
 # ------------------- Page Configuration -------------------
 st.set_page_config(
-    page_title="Vehicle Maintenance Cost Prediction",
+    page_title="Vehicle Maintenance AI | Estimator",
     page_icon="🚗",
-    layout="wide"
+    layout="wide",
+    initial_sidebar_state="expanded"
 )
 
-# ------------------- Load Dataset -------------------
-df = pd.read_csv("vehicle_maintenance.csv")
+# Custom CSS for UI styling
+st.markdown("""
+    <style>
+    .main { padding-top: 1rem; }
+    .stMetric {
+        background-color: #f8f9fa;
+        padding: 15px;
+        border-radius: 10px;
+        border: 1px solid #e9ecef;
+    }
+    .cost-card {
+        background-color: #e8f5e9;
+        border-left: 5px solid #2e7d32;
+        padding: 20px;
+        border-radius: 8px;
+        margin-top: 15px;
+    }
+    </style>
+""", unsafe_allow_html=True)
 
-# ------------------- Load Model -------------------
-reg_model = joblib.load("vehicle_model.pkl")
 
-# ------------------- Load Encoders -------------------
-brand_encoder = joblib.load("brand_encoder.pkl")
-car_encoder = joblib.load("car_encoder.pkl")
-issue_encoder = joblib.load("issue_encoder.pkl")
+# ------------------- Data & Model Loaders (Cached) -------------------
+@st.cache_data
+def load_data():
+    return pd.read_csv("vehicle_maintenance.csv")
 
-# ------------------- Title -------------------
-st.title("🚗 Vehicle Maintenance Cost Prediction System")
-st.write("Estimate the maintenance cost based on your vehicle details.")
+@st.cache_resource
+def load_models():
+    reg_model = joblib.load("vehicle_model.pkl")
+    brand_encoder = joblib.load("brand_encoder.pkl")
+    car_encoder = joblib.load("car_encoder.pkl")
+    issue_encoder = joblib.load("issue_encoder.pkl")
+    return reg_model, brand_encoder, car_encoder, issue_encoder
+
+df = load_data()
+reg_model, brand_encoder, car_encoder, issue_encoder = load_models()
+
+
+# ------------------- Header Section -------------------
+col_head, col_badge = st.columns([3, 1])
+with col_head:
+    st.title("🚗 Vehicle Maintenance Cost Predictor")
+    st.write("Get accurate repair cost estimates powered by Machine Learning based on real historical data.")
+
+with col_badge:
+    st.metric(label="Total Records Analyzed", value=f"{len(df):,}")
 
 st.divider()
 
-# ------------------- Input Fields -------------------
-col1, col2, col3, col4, col5 = st.columns(5)
+
+# ------------------- Sidebar Controls -------------------
+st.sidebar.header("🛠️ Vehicle Configurations")
 
 # Brand Selection
-with col1:
-    brand = st.selectbox(
-        "Vehicle Brand",
-        sorted(df["Brand"].unique())
-    )
-
-# Filter Cars Based on Selected Brand
-available_cars = sorted(
-    df[df["Brand"] == brand]["Car_Name"].unique()
+selected_brand = st.sidebar.selectbox(
+    "1. Select Brand",
+    options=sorted(df["Brand"].unique())
 )
 
-# Car Selection
-with col2:
-    car_name = st.selectbox(
-        "Car Name",
-        available_cars
-    )
+# Filter Cars
+available_cars = sorted(df[df["Brand"] == selected_brand]["Car_Name"].unique())
+selected_car = st.sidebar.selectbox(
+    "2. Select Model",
+    options=available_cars
+)
 
 # Issue Selection
-with col3:
-    issue = st.selectbox(
-        "Vehicle Issue",
-        sorted(df["Issue"].unique())
-    )
+selected_issue = st.sidebar.selectbox(
+    "3. Vehicle Issue / Maintenance Type",
+    options=sorted(df["Issue"].unique())
+)
+
+st.sidebar.subheader("📋 Usage Specifications")
 
 # Model Year
-with col4:
-    model_year = st.number_input(
-        "Model Year",
-        min_value=2000,
-        max_value=2026,
-        value=2020
-    )
+model_year = st.sidebar.number_input(
+    "Model Year",
+    min_value=2000,
+    max_value=2026,
+    value=2020,
+    step=1
+)
 
 # KMs Driven
-with col5:
-    kms_driven = st.number_input(
-        "KMs Driven",
-        min_value=0,
-        max_value=500000,
-        value=30000,
-        step=1000
-    )
+kms_driven = st.sidebar.number_input(
+    "Total Kilometers Driven",
+    min_value=0,
+    max_value=500000,
+    value=45000,
+    step=2500
+)
 
-st.write("")
+predict_btn = st.sidebar.button("🔧 Calculate Maintenance Cost", type="primary", use_container_width=True)
 
-# ------------------- Prediction -------------------
-if st.button("🔧 Predict Maintenance Cost", use_container_width=True):
 
-    # Encode Inputs
-    brand_encoded = brand_encoder.transform([brand])[0]
-    car_encoded = car_encoder.transform([car_name])[0]
-    issue_encoded = issue_encoder.transform([issue])[0]
+# ------------------- Main Display & Results -------------------
+tab1, tab2 = st.tabs(["📊 Estimation & Analysis", "📈 Market Insights"])
 
-    # Prepare Input
-    input_data = [[
-        brand_encoded,
-        car_encoded,
-        issue_encoded,
-        model_year,
-        kms_driven
-    ]]
+with tab1:
+    col_summary, col_prediction = st.columns([1, 1], gap="medium")
 
-    # Predict
-    predicted_cost = reg_model.predict(input_data)[0]
+    with col_summary:
+        st.subheader("📋 Selected Summary")
+        
+        # Vehicle Specs Display Card
+        st.markdown(f"""
+        * **Brand & Model:** {selected_brand} - {selected_car}
+        * **Reported Issue:** `{selected_issue}`
+        * **Manufacturing Year:** {model_year} (Age: {2026 - model_year} years)
+        * **Odometer Reading:** {kms_driven:,} km
+        """)
 
-    st.success(f"## 💰 Estimated Maintenance Cost: ₹ {predicted_cost:,.2f}")
+        # Contextual Statistics from Dataset
+        matched_df = df[(df["Brand"] == selected_brand) & (df["Issue"] == selected_issue)]
+        if not matched_df.empty and "Cost" in matched_df.columns:
+            avg_hist_cost = matched_df["Cost"].mean()
+            st.info(f"💡 **Historical Average** for `{selected_issue}` in {selected_brand} vehicles: **₹ {avg_hist_cost:,.2f}**")
 
+    with col_prediction:
+        st.subheader("💰 Cost Prediction")
+        
+        if predict_btn:
+            try:
+                # Encode Inputs
+                brand_encoded = brand_encoder.transform([selected_brand])[0]
+                car_encoded = car_encoder.transform([selected_car])[0]
+                issue_encoded = issue_encoder.transform([selected_issue])[0]
+
+                # Prepare Input Vector
+                input_data = [[
+                    brand_encoded,
+                    car_encoded,
+                    issue_encoded,
+                    model_year,
+                    kms_driven
+                ]]
+
+                # Predict
+                predicted_cost = reg_model.predict(input_data)[0]
+
+                # Output Card
+                st.markdown(f"""
+                <div class="cost-card">
+                    <h4 style="margin:0; color:#1b5e20;">Estimated Total Repair Cost</h4>
+                    <h1 style="margin:5px 0; color:#2e7d32;">₹ {predicted_cost:,.2f}</h1>
+                    <small>Estimate includes estimated labor and component replacement costs.</small>
+                </div>
+                """, unsafe_allow_html=True)
+
+                st.caption("⚠️ *Estimates are generated via predictive modeling and may vary based on exact workshop rates.*")
+
+            except Exception as e:
+                st.error(f"Error executing prediction: {e}")
+        else:
+            st.warning("👈 Adjust your vehicle details in the sidebar and click **Calculate Maintenance Cost**.")
+
+with tab2:
+    st.subheader("📊 Historical Cost Distribution")
+    
+    if "Cost" in df.columns:
+        fig = px.box(
+            df, 
+            x="Brand", 
+            y="Cost", 
+            color="Brand", 
+            title="Maintenance Cost Range by Brand",
+            labels={"Cost": "Cost (₹)"}
+        )
+        st.plotly_chart(fig, use_container_width=True)
+    else:
+        st.info("Upload/Include a 'Cost' column in your dataset to display historical market insights.")
+
+# ------------------- Footer -------------------
 st.divider()
-
-st.caption("Built with ❤️ using Streamlit & Scikit-Learn")
+st.caption("🚗 Vehicle Cost Analytics Dashboard | Powered by Scikit-Learn & Streamlit")
