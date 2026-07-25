@@ -1,4 +1,5 @@
 import streamlit as st
+import pandas as pd
 import joblib
 
 # ------------------- Page Configuration -------------------
@@ -7,6 +8,9 @@ st.set_page_config(
     page_icon="🚗",
     layout="wide"
 )
+
+# ------------------- Load Dataset -------------------
+df = pd.read_csv("vehicle_maintenance.csv")
 
 # ------------------- Load Model -------------------
 reg_model = joblib.load("vehicle_model.pkl")
@@ -25,24 +29,33 @@ st.divider()
 # ------------------- Input Fields -------------------
 col1, col2, col3, col4, col5 = st.columns(5)
 
+# Brand Selection
 with col1:
     brand = st.selectbox(
         "Vehicle Brand",
-        brand_encoder.classes_.tolist()
+        sorted(df["Brand"].unique())
     )
 
+# Filter Cars Based on Selected Brand
+available_cars = sorted(
+    df[df["Brand"] == brand]["Car_Name"].unique()
+)
+
+# Car Selection
 with col2:
     car_name = st.selectbox(
         "Car Name",
-        car_encoder.classes_.tolist()
+        available_cars
     )
 
+# Issue Selection
 with col3:
     issue = st.selectbox(
         "Vehicle Issue",
-        issue_encoder.classes_.tolist()
+        sorted(df["Issue"].unique())
     )
 
+# Model Year
 with col4:
     model_year = st.number_input(
         "Model Year",
@@ -51,6 +64,7 @@ with col4:
         value=2020
     )
 
+# KMs Driven
 with col5:
     kms_driven = st.number_input(
         "KMs Driven",
@@ -65,12 +79,12 @@ st.write("")
 # ------------------- Prediction -------------------
 if st.button("🔧 Predict Maintenance Cost", use_container_width=True):
 
-    # Encode categorical inputs
+    # Encode Inputs
     brand_encoded = brand_encoder.transform([brand])[0]
     car_encoded = car_encoder.transform([car_name])[0]
     issue_encoded = issue_encoder.transform([issue])[0]
 
-    # Prepare input
+    # Prepare Input
     input_data = [[
         brand_encoded,
         car_encoded,
@@ -79,7 +93,7 @@ if st.button("🔧 Predict Maintenance Cost", use_container_width=True):
         kms_driven
     ]]
 
-    # Predict Maintenance Cost
+    # Predict
     predicted_cost = reg_model.predict(input_data)[0]
 
     st.success(f"## 💰 Estimated Maintenance Cost: ₹ {predicted_cost:,.2f}")
