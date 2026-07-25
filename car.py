@@ -5,7 +5,7 @@ import plotly.express as px
 
 # ------------------- Page Configuration -------------------
 st.set_page_config(
-    page_title="Vehicle Maintenance AI | Estimator",
+    page_title="Car Maintenance Cost Prediction Using Regression",
     page_icon="🚗",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -55,7 +55,7 @@ reg_model, brand_encoder, car_encoder, issue_encoder = load_models()
 # ------------------- Header Section -------------------
 col_head, col_badge = st.columns([3, 1])
 with col_head:
-    st.title("🚗 Vehicle Maintenance Cost Predictor")
+    st.title("🚗 Car Maintenance Cost Prediction Using Regression")
     st.write("Get accurate repair cost estimates powered by Machine Learning based on real historical data.")
 
 with col_badge:
