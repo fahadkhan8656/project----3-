@@ -1,0 +1,1401 @@
+Brand,Car_Name,Issue,Model_Year,KMs_Driven,Maintenance_Cost
+Maruti Suzuki,Alto K10,Clutch Replacement,2022,184472,23696
+Maruti Suzuki,Alto K10,Radiator Repair,2021,58762,12195
+Maruti Suzuki,Alto K10,Alternator Replacement,2024,94770,7139
+Maruti Suzuki,Alto K10,Fuel Pump Repair,2018,179101,14170
+Maruti Suzuki,Alto K10,Battery Replacement,2023,101633,11965
+Maruti Suzuki,Alto K10,Suspension Repair,2024,28128,19043
+Maruti Suzuki,Alto K10,Tyre Replacement,2018,141883,39087
+Maruti Suzuki,Alto K10,Starter Motor Repair,2012,72409,12542
+Maruti Suzuki,Alto K10,Timing Belt Replacement,2016,110741,7840
+Maruti Suzuki,Alto K10,Steering Rack Repair,2018,43152,25088
+Maruti Suzuki,Alto K10,Headlight Replacement,2013,176557,11071
+Maruti Suzuki,Alto K10,Starter Motor Repair,2013,51001,11774
+Maruti Suzuki,Alto K10,AC Repair,2020,123027,17703
+Maruti Suzuki,Alto K10,Fuel Pump Repair,2019,58202,13444
+Maruti Suzuki,Alto K10,Steering Rack Repair,2015,86437,22462
+Maruti Suzuki,Alto K10,Wheel Balancing,2012,101863,6019
+Maruti Suzuki,Alto K10,Gearbox Repair,2018,48278,33393
+Maruti Suzuki,Alto K10,Cabin Filter Replacement,2016,151062,6753
+Maruti Suzuki,Alto K10,Brake Pad Replacement,2021,81503,8982
+Maruti Suzuki,Alto K10,Starter Motor Repair,2016,70605,6989
+Maruti Suzuki,S-Presso,Timing Belt Replacement,2023,125169,12711
+Maruti Suzuki,S-Presso,Starter Motor Repair,2022,17553,11436
+Maruti Suzuki,S-Presso,Coolant Leak,2012,70064,5869
+Maruti Suzuki,S-Presso,Tyre Replacement,2023,193494,22747
+Maruti Suzuki,S-Presso,Timing Belt Replacement,2017,6724,6465
+Maruti Suzuki,S-Presso,Fuel Pump Repair,2021,30745,6772
+Maruti Suzuki,S-Presso,Radiator Repair,2020,155210,13076
+Maruti Suzuki,S-Presso,AC Repair,2025,113477,7345
+Maruti Suzuki,S-Presso,Clutch Replacement,2012,40111,17533
+Maruti Suzuki,S-Presso,Brake Pad Replacement,2020,187473,13225
+Maruti Suzuki,S-Presso,Timing Belt Replacement,2022,109751,10793
+Maruti Suzuki,S-Presso,Radiator Repair,2025,15425,8994
+Maruti Suzuki,S-Presso,Starter Motor Repair,2019,54880,14619
+Maruti Suzuki,S-Presso,Cabin Filter Replacement,2023,137644,6904
+Maruti Suzuki,S-Presso,Clutch Replacement,2025,60992,11746
+Maruti Suzuki,S-Presso,Radiator Repair,2013,43109,10471
+Maruti Suzuki,S-Presso,Gearbox Repair,2017,17917,31504
+Maruti Suzuki,S-Presso,AC Repair,2017,77435,12225
+Maruti Suzuki,S-Presso,Suspension Repair,2025,30927,14942
+Maruti Suzuki,S-Presso,Clutch Replacement,2013,157586,15494
+Maruti Suzuki,WagonR,Engine Oil Change,2015,49748,7225
+Maruti Suzuki,WagonR,Clutch Replacement,2012,69044,18306
+Maruti Suzuki,WagonR,Spark Plug Replacement,2016,95672,5444
+Maruti Suzuki,WagonR,Engine Oil Change,2014,80148,8094
+Maruti Suzuki,WagonR,Wheel Balancing,2012,39473,3059
+Maruti Suzuki,WagonR,Air Filter Replacement,2015,45046,4341
+Maruti Suzuki,WagonR,Suspension Repair,2021,190197,17242
+Maruti Suzuki,WagonR,Coolant Replacement,2012,172681,6200
+Maruti Suzuki,WagonR,Steering Rack Repair,2016,195559,22329
+Maruti Suzuki,WagonR,Steering Rack Repair,2021,123085,27746
+Maruti Suzuki,WagonR,Headlight Replacement,2017,47363,5232
+Maruti Suzuki,WagonR,Suspension Repair,2012,101535,9395
+Maruti Suzuki,WagonR,AC Repair,2017,25134,6907
+Maruti Suzuki,WagonR,Suspension Repair,2018,41354,25289
+Maruti Suzuki,WagonR,Clutch Replacement,2016,39538,13365
+Maruti Suzuki,WagonR,Headlight Replacement,2017,121220,8297
+Maruti Suzuki,WagonR,Engine Overheating,2025,117012,20380
+Maruti Suzuki,WagonR,Cabin Filter Replacement,2012,99500,6825
+Maruti Suzuki,WagonR,Tyre Replacement,2012,41505,18930
+Maruti Suzuki,WagonR,Engine Oil Change,2025,126737,6763
+Maruti Suzuki,Celerio,Gearbox Repair,2024,166709,19684
+Maruti Suzuki,Celerio,Air Filter Replacement,2018,168157,9139
+Maruti Suzuki,Celerio,AC Repair,2012,107209,15831
+Maruti Suzuki,Celerio,Clutch Replacement,2018,185342,24428
+Maruti Suzuki,Celerio,Steering Rack Repair,2022,55999,30527
+Maruti Suzuki,Celerio,Timing Belt Replacement,2012,109528,15678
+Maruti Suzuki,Celerio,AC Repair,2025,18571,8123
+Maruti Suzuki,Celerio,Steering Rack Repair,2024,43494,14263
+Maruti Suzuki,Celerio,AC Repair,2015,192302,10853
+Maruti Suzuki,Celerio,Wheel Balancing,2013,61444,5067
+Maruti Suzuki,Celerio,Radiator Repair,2018,192283,12298
+Maruti Suzuki,Celerio,Steering Rack Repair,2019,180932,32748
+Maruti Suzuki,Celerio,Alternator Replacement,2013,188223,15610
+Maruti Suzuki,Celerio,Brake Pad Replacement,2017,172547,15965
+Maruti Suzuki,Celerio,Tyre Replacement,2024,54398,38675
+Maruti Suzuki,Celerio,Clutch Replacement,2019,68552,13053
+Maruti Suzuki,Celerio,Starter Motor Repair,2021,182396,13339
+Maruti Suzuki,Celerio,Wheel Alignment,2019,175961,5472
+Maruti Suzuki,Celerio,Alternator Replacement,2025,155991,17965
+Maruti Suzuki,Celerio,Tyre Replacement,2024,169428,40426
+Maruti Suzuki,Swift,Cabin Filter Replacement,2022,123449,7074
+Maruti Suzuki,Swift,Engine Oil Change,2016,48989,5521
+Maruti Suzuki,Swift,Shock Absorber Replacement,2018,130427,13675
+Maruti Suzuki,Swift,Engine Overheating,2024,79163,24991
+Maruti Suzuki,Swift,Coolant Replacement,2024,22268,2727
+Maruti Suzuki,Swift,Spark Plug Replacement,2014,107220,6536
+Maruti Suzuki,Swift,Cabin Filter Replacement,2015,162608,6455
+Maruti Suzuki,Swift,Alternator Replacement,2016,78405,16563
+Maruti Suzuki,Swift,Wheel Alignment,2024,111633,5040
+Maruti Suzuki,Swift,Brake Pad Replacement,2012,13228,6085
+Maruti Suzuki,Swift,Tyre Replacement,2023,186084,27209
+Maruti Suzuki,Swift,Headlight Replacement,2012,20741,9537
+Maruti Suzuki,Swift,Tyre Replacement,2012,127951,20599
+Maruti Suzuki,Swift,Shock Absorber Replacement,2013,139446,19895
+Maruti Suzuki,Swift,Engine Overheating,2021,176671,10138
+Maruti Suzuki,Swift,Fuel Pump Repair,2013,178102,17635
+Maruti Suzuki,Swift,Alternator Replacement,2013,117365,15791
+Maruti Suzuki,Swift,AC Repair,2018,111588,18309
+Maruti Suzuki,Swift,Cabin Filter Replacement,2016,190502,11179
+Maruti Suzuki,Swift,Steering Rack Repair,2015,189553,25107
+Maruti Suzuki,Dzire,Tyre Replacement,2024,114402,21499
+Maruti Suzuki,Dzire,Spark Plug Replacement,2019,14633,4871
+Maruti Suzuki,Dzire,Air Filter Replacement,2025,92739,5081
+Maruti Suzuki,Dzire,Engine Overheating,2015,185336,25488
+Maruti Suzuki,Dzire,Clutch Replacement,2016,59481,15707
+Maruti Suzuki,Dzire,Brake Pad Replacement,2018,148673,11187
+Maruti Suzuki,Dzire,Alternator Replacement,2017,11311,7632
+Maruti Suzuki,Dzire,Starter Motor Repair,2015,108861,9129
+Maruti Suzuki,Dzire,Coolant Leak,2016,124111,5327
+Maruti Suzuki,Dzire,Headlight Replacement,2017,107242,5544
+Maruti Suzuki,Dzire,Air Filter Replacement,2023,194183,5810
+Maruti Suzuki,Dzire,Battery Replacement,2017,97913,13124
+Maruti Suzuki,Dzire,Headlight Replacement,2019,108844,11328
+Maruti Suzuki,Dzire,AC Repair,2022,18267,6375
+Maruti Suzuki,Dzire,Headlight Replacement,2013,98170,12179
+Maruti Suzuki,Dzire,Brake Fluid Change,2025,70899,3705
+Maruti Suzuki,Dzire,Engine Oil Change,2023,187165,6242
+Maruti Suzuki,Dzire,Engine Overheating,2021,118095,10846
+Maruti Suzuki,Dzire,Engine Oil Change,2012,182058,10086
+Maruti Suzuki,Dzire,Engine Overheating,2015,12370,9663
+Maruti Suzuki,Baleno,Wheel Alignment,2022,81828,4156
+Maruti Suzuki,Baleno,Starter Motor Repair,2019,107648,6224
+Maruti Suzuki,Baleno,Battery Replacement,2012,30792,9366
+Maruti Suzuki,Baleno,Fuel Pump Repair,2023,25350,7706
+Maruti Suzuki,Baleno,Steering Rack Repair,2025,133276,33190
+Maruti Suzuki,Baleno,Starter Motor Repair,2012,160191,16861
+Maruti Suzuki,Baleno,Air Filter Replacement,2014,66174,4629
+Maruti Suzuki,Baleno,Fuel Pump Repair,2015,142813,13740
+Maruti Suzuki,Baleno,Alternator Replacement,2019,52757,9698
+Maruti Suzuki,Baleno,Wheel Balancing,2025,21835,1786
+Maruti Suzuki,Baleno,Tyre Replacement,2021,152499,32165
+Maruti Suzuki,Baleno,Starter Motor Repair,2025,179863,11133
+Maruti Suzuki,Baleno,Engine Overheating,2025,103064,8873
+Maruti Suzuki,Baleno,Timing Belt Replacement,2012,93225,10138
+Maruti Suzuki,Baleno,Cabin Filter Replacement,2025,182492,8707
+Maruti Suzuki,Baleno,Wheel Alignment,2024,11708,1376
+Maruti Suzuki,Baleno,Gearbox Repair,2023,73809,48736
+Maruti Suzuki,Baleno,Spark Plug Replacement,2021,117514,5575
+Maruti Suzuki,Baleno,Cabin Filter Replacement,2021,160823,3677
+Maruti Suzuki,Baleno,Battery Replacement,2016,125109,11650
+Maruti Suzuki,Fronx,Gearbox Repair,2022,179123,49440
+Maruti Suzuki,Fronx,Starter Motor Repair,2017,90341,14065
+Maruti Suzuki,Fronx,Starter Motor Repair,2016,87013,18718
+Maruti Suzuki,Fronx,Coolant Replacement,2017,30587,3362
+Maruti Suzuki,Fronx,Fuel Pump Repair,2013,67641,8083
+Maruti Suzuki,Fronx,Alternator Replacement,2018,39004,18911
+Maruti Suzuki,Fronx,Coolant Leak,2020,198270,12623
+Maruti Suzuki,Fronx,Clutch Replacement,2024,65100,15127
+Maruti Suzuki,Fronx,AC Repair,2023,179720,14640
+Maruti Suzuki,Fronx,Shock Absorber Replacement,2025,192811,24186
+Maruti Suzuki,Fronx,Clutch Replacement,2020,110488,19828
+Maruti Suzuki,Fronx,Coolant Leak,2022,173861,11616
+Maruti Suzuki,Fronx,Steering Rack Repair,2021,10576,18057
+Maruti Suzuki,Fronx,Fuel Pump Repair,2024,136663,15537
+Maruti Suzuki,Fronx,AC Repair,2018,160162,18453
+Maruti Suzuki,Fronx,Brake Pad Replacement,2013,156215,10487
+Maruti Suzuki,Fronx,Fuel Pump Repair,2023,192697,15065
+Maruti Suzuki,Fronx,AC Repair,2013,7565,14869
+Maruti Suzuki,Fronx,Coolant Replacement,2022,122286,4867
+Maruti Suzuki,Fronx,Shock Absorber Replacement,2025,147875,9177
+Maruti Suzuki,Brezza,Brake Pad Replacement,2014,99067,7519
+Maruti Suzuki,Brezza,Gearbox Repair,2021,62020,58544
+Maruti Suzuki,Brezza,Engine Overheating,2021,70366,16847
+Maruti Suzuki,Brezza,Starter Motor Repair,2020,93629,17943
+Maruti Suzuki,Brezza,Headlight Replacement,2022,132666,8002
+Maruti Suzuki,Brezza,Alternator Replacement,2014,180188,15375
+Maruti Suzuki,Brezza,Engine Overheating,2022,98756,24746
+Maruti Suzuki,Brezza,Radiator Repair,2019,145984,13771
+Maruti Suzuki,Brezza,Wheel Alignment,2012,31127,2421
+Maruti Suzuki,Brezza,Alternator Replacement,2021,42992,15615
+Maruti Suzuki,Brezza,Wheel Alignment,2023,20889,2416
+Maruti Suzuki,Brezza,Coolant Replacement,2014,47790,3788
+Maruti Suzuki,Brezza,Starter Motor Repair,2016,189740,13159
+Maruti Suzuki,Brezza,Battery Replacement,2015,55675,13664
+Maruti Suzuki,Brezza,Brake Fluid Change,2019,70940,3976
+Maruti Suzuki,Brezza,Engine Oil Change,2016,35706,4167
+Maruti Suzuki,Brezza,Alternator Replacement,2025,71919,14340
+Maruti Suzuki,Brezza,Spark Plug Replacement,2014,114013,7214
+Maruti Suzuki,Brezza,Alternator Replacement,2018,189651,23868
+Maruti Suzuki,Brezza,Tyre Replacement,2020,107873,22281
+Maruti Suzuki,Ertiga,Engine Oil Change,2012,11647,6119
+Maruti Suzuki,Ertiga,Shock Absorber Replacement,2019,81971,16946
+Maruti Suzuki,Ertiga,Brake Fluid Change,2012,71150,5896
+Maruti Suzuki,Ertiga,Fuel Pump Repair,2020,123382,11383
+Maruti Suzuki,Ertiga,Headlight Replacement,2015,65707,9521
+Maruti Suzuki,Ertiga,Fuel Pump Repair,2012,78002,11286
+Maruti Suzuki,Ertiga,Engine Overheating,2022,30334,24889
+Maruti Suzuki,Ertiga,Starter Motor Repair,2013,159611,9705
+Maruti Suzuki,Ertiga,Engine Overheating,2016,56419,16910
+Maruti Suzuki,Ertiga,Spark Plug Replacement,2020,127856,5779
+Maruti Suzuki,Ertiga,Coolant Replacement,2020,99564,3385
+Maruti Suzuki,Ertiga,AC Repair,2014,150774,11899
+Maruti Suzuki,Ertiga,Wheel Alignment,2013,139423,8465
+Maruti Suzuki,Ertiga,Headlight Replacement,2021,9009,6841
+Maruti Suzuki,Ertiga,Cabin Filter Replacement,2016,16940,3447
+Maruti Suzuki,Ertiga,Battery Replacement,2013,120077,13442
+Maruti Suzuki,Ertiga,Alternator Replacement,2021,61588,7987
+Maruti Suzuki,Ertiga,Gearbox Repair,2022,125152,35211
+Maruti Suzuki,Ertiga,Wheel Alignment,2023,28169,2084
+Maruti Suzuki,Ertiga,Starter Motor Repair,2024,66575,6891
+Maruti Suzuki,XL6,Brake Pad Replacement,2025,94658,10131
+Maruti Suzuki,XL6,Suspension Repair,2022,87720,8625
+Maruti Suzuki,XL6,Battery Replacement,2019,43505,8673
+Maruti Suzuki,XL6,Starter Motor Repair,2015,26871,15299
+Maruti Suzuki,XL6,Spark Plug Replacement,2025,143955,7233
+Maruti Suzuki,XL6,Coolant Leak,2012,148287,11063
+Maruti Suzuki,XL6,Spark Plug Replacement,2025,159320,9935
+Maruti Suzuki,XL6,Tyre Replacement,2025,190861,36213
+Maruti Suzuki,XL6,Fuel Pump Repair,2022,148882,12607
+Maruti Suzuki,XL6,AC Repair,2023,41901,10467
+Maruti Suzuki,XL6,Steering Rack Repair,2014,196257,26512
+Maruti Suzuki,XL6,Spark Plug Replacement,2013,180769,6147
+Maruti Suzuki,XL6,Wheel Alignment,2021,154274,8800
+Maruti Suzuki,XL6,Suspension Repair,2020,31008,12513
+Maruti Suzuki,XL6,Shock Absorber Replacement,2024,69279,17261
+Maruti Suzuki,XL6,Alternator Replacement,2018,57335,16094
+Maruti Suzuki,XL6,Timing Belt Replacement,2024,150031,9339
+Maruti Suzuki,XL6,Shock Absorber Replacement,2015,68872,9112
+Maruti Suzuki,XL6,Engine Overheating,2012,179258,14259
+Maruti Suzuki,XL6,Clutch Replacement,2020,88819,18193
+Maruti Suzuki,Grand Vitara,Air Filter Replacement,2017,167259,8952
+Maruti Suzuki,Grand Vitara,Suspension Repair,2017,11170,15284
+Maruti Suzuki,Grand Vitara,Starter Motor Repair,2018,114847,19787
+Maruti Suzuki,Grand Vitara,Air Filter Replacement,2025,87946,5620
+Maruti Suzuki,Grand Vitara,Spark Plug Replacement,2025,37876,3365
+Maruti Suzuki,Grand Vitara,Radiator Repair,2024,194629,9963
+Maruti Suzuki,Grand Vitara,Wheel Balancing,2017,64190,5271
+Maruti Suzuki,Grand Vitara,Clutch Replacement,2014,84320,15399
+Maruti Suzuki,Grand Vitara,Shock Absorber Replacement,2016,19057,7149
+Maruti Suzuki,Grand Vitara,Headlight Replacement,2023,171202,12966
+Maruti Suzuki,Grand Vitara,AC Repair,2022,83840,13823
+Maruti Suzuki,Grand Vitara,Brake Fluid Change,2019,65350,4155
+Maruti Suzuki,Grand Vitara,AC Repair,2024,155553,11322
+Maruti Suzuki,Grand Vitara,Starter Motor Repair,2013,79737,16281
+Maruti Suzuki,Grand Vitara,AC Repair,2015,135313,14972
+Maruti Suzuki,Grand Vitara,Engine Oil Change,2021,186315,11371
+Maruti Suzuki,Grand Vitara,Shock Absorber Replacement,2023,187312,16829
+Maruti Suzuki,Grand Vitara,Radiator Repair,2018,108570,11105
+Maruti Suzuki,Grand Vitara,Wheel Alignment,2024,157028,6996
+Maruti Suzuki,Grand Vitara,Wheel Balancing,2022,109836,4919
+Maruti Suzuki,Invicto,Engine Overheating,2018,121029,11732
+Maruti Suzuki,Invicto,Wheel Balancing,2022,33101,2377
+Maruti Suzuki,Invicto,Starter Motor Repair,2023,112945,13310
+Maruti Suzuki,Invicto,Headlight Replacement,2025,66077,11969
+Maruti Suzuki,Invicto,Engine Oil Change,2016,103705,6631
+Maruti Suzuki,Invicto,Battery Replacement,2022,88432,13813
+Maruti Suzuki,Invicto,Engine Oil Change,2023,177168,11741
+Maruti Suzuki,Invicto,Tyre Replacement,2021,167682,44815
+Maruti Suzuki,Invicto,Brake Pad Replacement,2025,94118,9436
+Maruti Suzuki,Invicto,Battery Replacement,2017,177760,12932
+Maruti Suzuki,Invicto,Wheel Balancing,2015,158278,3124
+Maruti Suzuki,Invicto,Shock Absorber Replacement,2017,191825,20604
+Maruti Suzuki,Invicto,Fuel Pump Repair,2014,92587,15431
+Maruti Suzuki,Invicto,Fuel Pump Repair,2020,152308,21498
+Maruti Suzuki,Invicto,Coolant Replacement,2024,82720,3918
+Maruti Suzuki,Invicto,Gearbox Repair,2021,36221,23759
+Maruti Suzuki,Invicto,Coolant Replacement,2025,159798,5068
+Maruti Suzuki,Invicto,Spark Plug Replacement,2016,14090,4687
+Maruti Suzuki,Invicto,Timing Belt Replacement,2016,179130,13405
+Maruti Suzuki,Invicto,Fuel Pump Repair,2018,196868,17460
+Hyundai,Grand i10 Nios,Engine Overheating,2020,134358,8713
+Hyundai,Grand i10 Nios,Engine Oil Change,2012,118193,6231
+Hyundai,Grand i10 Nios,Tyre Replacement,2012,123470,21531
+Hyundai,Grand i10 Nios,Coolant Leak,2019,115920,9111
+Hyundai,Grand i10 Nios,Cabin Filter Replacement,2017,136207,6686
+Hyundai,Grand i10 Nios,Wheel Balancing,2025,19968,1292
+Hyundai,Grand i10 Nios,Shock Absorber Replacement,2025,131178,18799
+Hyundai,Grand i10 Nios,Clutch Replacement,2020,193447,22404
+Hyundai,Grand i10 Nios,AC Repair,2016,173001,17503
+Hyundai,Grand i10 Nios,Air Filter Replacement,2023,170280,5472
+Hyundai,Grand i10 Nios,Fuel Pump Repair,2014,171356,11934
+Hyundai,Grand i10 Nios,Wheel Alignment,2025,43476,2453
+Hyundai,Grand i10 Nios,Battery Replacement,2019,12970,12814
+Hyundai,Grand i10 Nios,Battery Replacement,2012,21278,10169
+Hyundai,Grand i10 Nios,Tyre Replacement,2012,146694,28032
+Hyundai,Grand i10 Nios,Engine Overheating,2013,50015,25108
+Hyundai,Grand i10 Nios,Gearbox Repair,2025,158254,36535
+Hyundai,Grand i10 Nios,Brake Fluid Change,2018,194846,9857
+Hyundai,Grand i10 Nios,Clutch Replacement,2024,141958,15252
+Hyundai,Grand i10 Nios,Timing Belt Replacement,2022,153226,13077
+Hyundai,i20,Timing Belt Replacement,2023,12841,5894
+Hyundai,i20,Gearbox Repair,2021,155589,21172
+Hyundai,i20,Radiator Repair,2023,92803,5127
+Hyundai,i20,Battery Replacement,2024,142622,10463
+Hyundai,i20,Tyre Replacement,2014,78764,23381
+Hyundai,i20,Cabin Filter Replacement,2013,40820,4337
+Hyundai,i20,Fuel Pump Repair,2016,192397,14531
+Hyundai,i20,Shock Absorber Replacement,2022,115674,19807
+Hyundai,i20,Timing Belt Replacement,2024,7193,8697
+Hyundai,i20,Engine Oil Change,2014,67114,8051
+Hyundai,i20,Coolant Replacement,2022,194754,8425
+Hyundai,i20,Brake Pad Replacement,2023,133391,8819
+Hyundai,i20,AC Repair,2025,149749,15555
+Hyundai,i20,Tyre Replacement,2024,124633,24418
+Hyundai,i20,Battery Replacement,2014,66313,7767
+Hyundai,i20,Engine Overheating,2021,132251,13726
+Hyundai,i20,Headlight Replacement,2015,113051,10437
+Hyundai,i20,Radiator Repair,2016,113411,9533
+Hyundai,i20,Brake Pad Replacement,2013,193900,12162
+Hyundai,i20,Headlight Replacement,2015,119414,7741
+Hyundai,Aura,Cabin Filter Replacement,2017,68012,5810
+Hyundai,Aura,Steering Rack Repair,2019,153158,32640
+Hyundai,Aura,Engine Oil Change,2024,105363,8638
+Hyundai,Aura,Coolant Replacement,2014,123812,5031
+Hyundai,Aura,Wheel Alignment,2025,66768,2881
+Hyundai,Aura,Engine Overheating,2013,64979,25364
+Hyundai,Aura,Radiator Repair,2012,18294,8395
+Hyundai,Aura,Fuel Pump Repair,2024,132278,14648
+Hyundai,Aura,Suspension Repair,2022,198920,23774
+Hyundai,Aura,Battery Replacement,2020,97314,12796
+Hyundai,Aura,Coolant Replacement,2018,96924,4547
+Hyundai,Aura,Suspension Repair,2018,143423,30889
+Hyundai,Aura,Clutch Replacement,2025,138998,12364
+Hyundai,Aura,Wheel Balancing,2015,152267,8937
+Hyundai,Aura,Coolant Leak,2015,186417,10972
+Hyundai,Aura,Engine Overheating,2025,95589,15403
+Hyundai,Aura,Engine Overheating,2019,188920,26601
+Hyundai,Aura,Clutch Replacement,2016,15254,15318
+Hyundai,Aura,Battery Replacement,2015,34391,13057
+Hyundai,Aura,Tyre Replacement,2014,102917,37073
+Hyundai,Exter,Air Filter Replacement,2018,120303,6758
+Hyundai,Exter,Cabin Filter Replacement,2020,160369,3656
+Hyundai,Exter,Shock Absorber Replacement,2023,29006,6685
+Hyundai,Exter,Cabin Filter Replacement,2025,122426,2763
+Hyundai,Exter,Spark Plug Replacement,2021,74946,6098
+Hyundai,Exter,Gearbox Repair,2019,20309,35969
+Hyundai,Exter,Starter Motor Repair,2017,127487,9171
+Hyundai,Exter,Coolant Leak,2020,166377,10838
+Hyundai,Exter,Wheel Alignment,2021,193267,10516
+Hyundai,Exter,Spark Plug Replacement,2020,184026,9895
+Hyundai,Exter,Wheel Balancing,2021,125391,7314
+Hyundai,Exter,Steering Rack Repair,2018,75569,18938
+Hyundai,Exter,AC Repair,2023,191976,14266
+Hyundai,Exter,Spark Plug Replacement,2019,98401,8150
+Hyundai,Exter,Fuel Pump Repair,2017,35876,15952
+Hyundai,Exter,Coolant Replacement,2017,84691,4372
+Hyundai,Exter,Radiator Repair,2023,178064,11481
+Hyundai,Exter,Clutch Replacement,2017,151361,20315
+Hyundai,Exter,Air Filter Replacement,2017,80412,2749
+Hyundai,Exter,Starter Motor Repair,2022,59528,10300
+Hyundai,Venue,Fuel Pump Repair,2025,25245,9177
+Hyundai,Venue,Air Filter Replacement,2018,92772,5907
+Hyundai,Venue,Starter Motor Repair,2018,132900,15581
+Hyundai,Venue,Brake Fluid Change,2016,103789,4077
+Hyundai,Venue,Coolant Replacement,2023,104952,5711
+Hyundai,Venue,Headlight Replacement,2015,97603,10406
+Hyundai,Venue,Gearbox Repair,2025,104270,29641
+Hyundai,Venue,Starter Motor Repair,2025,105066,15990
+Hyundai,Venue,Coolant Leak,2022,187963,11450
+Hyundai,Venue,Suspension Repair,2015,177054,14382
+Hyundai,Venue,Battery Replacement,2023,131400,14472
+Hyundai,Venue,Starter Motor Repair,2022,90821,7724
+Hyundai,Venue,Timing Belt Replacement,2018,81430,13299
+Hyundai,Venue,Brake Pad Replacement,2018,157412,10573
+Hyundai,Venue,Suspension Repair,2012,92272,24258
+Hyundai,Venue,Coolant Replacement,2016,15559,3312
+Hyundai,Venue,Alternator Replacement,2012,18797,15382
+Hyundai,Venue,Clutch Replacement,2016,91766,21353
+Hyundai,Venue,Fuel Pump Repair,2015,30497,13330
+Hyundai,Venue,Shock Absorber Replacement,2019,74044,18374
+Hyundai,Verna,Timing Belt Replacement,2014,150439,8465
+Hyundai,Verna,Wheel Alignment,2014,155035,9086
+Hyundai,Verna,Starter Motor Repair,2018,69091,10559
+Hyundai,Verna,AC Repair,2013,169431,12564
+Hyundai,Verna,Tyre Replacement,2018,78855,30961
+Hyundai,Verna,Wheel Alignment,2020,165861,7574
+Hyundai,Verna,Wheel Balancing,2019,76453,4496
+Hyundai,Verna,Fuel Pump Repair,2020,184984,17162
+Hyundai,Verna,Timing Belt Replacement,2017,79793,9923
+Hyundai,Verna,Engine Oil Change,2021,74911,4423
+Hyundai,Verna,Shock Absorber Replacement,2018,98745,20764
+Hyundai,Verna,Timing Belt Replacement,2016,157007,10962
+Hyundai,Verna,Air Filter Replacement,2025,150687,9001
+Hyundai,Verna,Radiator Repair,2025,124384,10437
+Hyundai,Verna,Cabin Filter Replacement,2012,6120,2922
+Hyundai,Verna,Steering Rack Repair,2021,35714,14451
+Hyundai,Verna,Air Filter Replacement,2019,122099,3831
+Hyundai,Verna,Tyre Replacement,2014,146345,38453
+Hyundai,Verna,Clutch Replacement,2012,6130,10111
+Hyundai,Verna,Gearbox Repair,2022,74767,52670
+Hyundai,Creta,Air Filter Replacement,2017,56324,3389
+Hyundai,Creta,Brake Fluid Change,2018,59634,2742
+Hyundai,Creta,Brake Pad Replacement,2019,125769,8130
+Hyundai,Creta,Steering Rack Repair,2020,56564,19537
+Hyundai,Creta,Suspension Repair,2017,173471,12722
+Hyundai,Creta,Alternator Replacement,2012,18299,16670
+Hyundai,Creta,Coolant Replacement,2015,149017,6394
+Hyundai,Creta,Wheel Alignment,2015,66848,4392
+Hyundai,Creta,Air Filter Replacement,2023,39871,3281
+Hyundai,Creta,Fuel Pump Repair,2019,147568,14093
+Hyundai,Creta,Suspension Repair,2022,104180,22451
+Hyundai,Creta,Brake Pad Replacement,2012,61009,8504
+Hyundai,Creta,Battery Replacement,2014,86245,14422
+Hyundai,Creta,Alternator Replacement,2021,104701,7838
+Hyundai,Creta,Coolant Replacement,2014,60903,3714
+Hyundai,Creta,Tyre Replacement,2020,93795,15542
+Hyundai,Creta,Battery Replacement,2021,113356,9359
+Hyundai,Creta,Battery Replacement,2025,193719,13946
+Hyundai,Creta,Wheel Balancing,2022,134671,7613
+Hyundai,Creta,Starter Motor Repair,2014,14650,15083
+Hyundai,Alcazar,Wheel Alignment,2016,167241,7949
+Hyundai,Alcazar,Steering Rack Repair,2012,192213,22994
+Hyundai,Alcazar,AC Repair,2013,66068,13230
+Hyundai,Alcazar,Alternator Replacement,2023,110994,17989
+Hyundai,Alcazar,Alternator Replacement,2022,154105,18321
+Hyundai,Alcazar,Alternator Replacement,2025,94372,16621
+Hyundai,Alcazar,Engine Oil Change,2019,44854,4197
+Hyundai,Alcazar,Starter Motor Repair,2023,73574,10778
+Hyundai,Alcazar,Alternator Replacement,2023,114015,15381
+Hyundai,Alcazar,Cabin Filter Replacement,2021,80606,3420
+Hyundai,Alcazar,Timing Belt Replacement,2024,147836,11374
+Hyundai,Alcazar,Coolant Replacement,2023,185639,6699
+Hyundai,Alcazar,Tyre Replacement,2024,108685,34895
+Hyundai,Alcazar,Cabin Filter Replacement,2013,148805,6014
+Hyundai,Alcazar,Coolant Replacement,2015,70968,4199
+Hyundai,Alcazar,Steering Rack Repair,2024,27454,18388
+Hyundai,Alcazar,Battery Replacement,2017,187973,15283
+Hyundai,Alcazar,Shock Absorber Replacement,2013,102541,8566
+Hyundai,Alcazar,Wheel Balancing,2019,43765,2141
+Hyundai,Alcazar,Cabin Filter Replacement,2023,113985,6326
+Hyundai,Tucson,Battery Replacement,2019,48192,11668
+Hyundai,Tucson,Coolant Replacement,2017,66007,5239
+Hyundai,Tucson,Wheel Balancing,2019,14726,1860
+Hyundai,Tucson,Timing Belt Replacement,2025,135318,16796
+Hyundai,Tucson,Clutch Replacement,2020,57913,19162
+Hyundai,Tucson,Steering Rack Repair,2013,171733,28605
+Hyundai,Tucson,Starter Motor Repair,2018,91087,9524
+Hyundai,Tucson,Timing Belt Replacement,2024,155200,13555
+Hyundai,Tucson,Shock Absorber Replacement,2023,91493,10796
+Hyundai,Tucson,Wheel Alignment,2019,134254,6707
+Hyundai,Tucson,Coolant Leak,2015,181151,7658
+Hyundai,Tucson,Headlight Replacement,2014,101881,12852
+Hyundai,Tucson,Wheel Balancing,2024,69218,4302
+Hyundai,Tucson,Engine Overheating,2023,99819,20252
+Hyundai,Tucson,Coolant Leak,2013,73624,10562
+Hyundai,Tucson,Coolant Replacement,2016,82879,4682
+Hyundai,Tucson,Gearbox Repair,2020,124817,59690
+Hyundai,Tucson,Coolant Leak,2021,115228,8394
+Hyundai,Tucson,Battery Replacement,2025,136934,12856
+Hyundai,Tucson,Cabin Filter Replacement,2024,163766,8678
+Tata,Tiago,Clutch Replacement,2013,81350,13797
+Tata,Tiago,Timing Belt Replacement,2015,190549,15235
+Tata,Tiago,Brake Pad Replacement,2022,109671,8923
+Tata,Tiago,Wheel Balancing,2016,136125,6600
+Tata,Tiago,Radiator Repair,2024,146969,15198
+Tata,Tiago,Engine Oil Change,2020,171398,5267
+Tata,Tiago,Brake Pad Replacement,2017,169924,12863
+Tata,Tiago,Tyre Replacement,2015,197920,22656
+Tata,Tiago,Engine Overheating,2022,164288,15143
+Tata,Tiago,Engine Overheating,2016,142403,20661
+Tata,Tiago,AC Repair,2022,183968,24157
+Tata,Tiago,Wheel Alignment,2014,132135,8185
+Tata,Tiago,Wheel Alignment,2018,45683,3252
+Tata,Tiago,Cabin Filter Replacement,2022,117353,5226
+Tata,Tiago,Tyre Replacement,2013,150972,20477
+Tata,Tiago,Tyre Replacement,2019,161394,26621
+Tata,Tiago,Engine Oil Change,2016,153403,10802
+Tata,Tiago,Timing Belt Replacement,2019,186033,8360
+Tata,Tiago,Wheel Alignment,2025,97359,3209
+Tata,Tiago,Headlight Replacement,2022,32449,8776
+Tata,Tigor,Spark Plug Replacement,2013,140287,8067
+Tata,Tigor,Suspension Repair,2019,86792,11651
+Tata,Tigor,Alternator Replacement,2012,48313,19510
+Tata,Tigor,Brake Fluid Change,2016,161545,6612
+Tata,Tigor,Air Filter Replacement,2023,90247,4795
+Tata,Tigor,Spark Plug Replacement,2019,192614,9008
+Tata,Tigor,Gearbox Repair,2016,106351,53480
+Tata,Tigor,Steering Rack Repair,2016,137407,29405
+Tata,Tigor,Spark Plug Replacement,2013,112968,5587
+Tata,Tigor,Coolant Leak,2013,167022,5219
+Tata,Tigor,Wheel Alignment,2013,179165,8067
+Tata,Tigor,Radiator Repair,2020,48119,9703
+Tata,Tigor,Wheel Balancing,2016,154548,7496
+Tata,Tigor,Wheel Balancing,2016,182425,6398
+Tata,Tigor,Alternator Replacement,2017,33976,12606
+Tata,Tigor,Coolant Leak,2017,169020,9005
+Tata,Tigor,Spark Plug Replacement,2016,54677,5309
+Tata,Tigor,Clutch Replacement,2015,151241,25332
+Tata,Tigor,Steering Rack Repair,2012,17822,23947
+Tata,Tigor,Gearbox Repair,2025,175577,29681
+Tata,Altroz,Air Filter Replacement,2020,58026,4421
+Tata,Altroz,AC Repair,2013,153467,17854
+Tata,Altroz,Spark Plug Replacement,2013,25057,4686
+Tata,Altroz,Gearbox Repair,2022,33935,23653
+Tata,Altroz,Brake Pad Replacement,2021,105600,8559
+Tata,Altroz,Radiator Repair,2022,54512,14833
+Tata,Altroz,Steering Rack Repair,2019,50370,21389
+Tata,Altroz,Air Filter Replacement,2020,193729,8964
+Tata,Altroz,Brake Fluid Change,2017,187893,8379
+Tata,Altroz,Wheel Alignment,2024,38491,2750
+Tata,Altroz,Engine Oil Change,2019,160175,8303
+Tata,Altroz,Shock Absorber Replacement,2013,156958,21485
+Tata,Altroz,Spark Plug Replacement,2015,124619,9531
+Tata,Altroz,Brake Fluid Change,2012,187516,9186
+Tata,Altroz,Fuel Pump Repair,2016,8203,8901
+Tata,Altroz,Timing Belt Replacement,2014,116720,17110
+Tata,Altroz,Fuel Pump Repair,2022,109583,11123
+Tata,Altroz,Tyre Replacement,2025,19004,38604
+Tata,Altroz,Starter Motor Repair,2019,5519,10444
+Tata,Altroz,Gearbox Repair,2019,132909,21196
+Tata,Punch,Alternator Replacement,2021,92826,11443
+Tata,Punch,Wheel Balancing,2019,190496,4620
+Tata,Punch,Brake Pad Replacement,2015,169581,13732
+Tata,Punch,Timing Belt Replacement,2023,120332,13507
+Tata,Punch,Cabin Filter Replacement,2020,36009,3993
+Tata,Punch,Steering Rack Repair,2016,108163,18101
+Tata,Punch,Cabin Filter Replacement,2015,124137,4936
+Tata,Punch,Brake Fluid Change,2022,62022,3506
+Tata,Punch,Headlight Replacement,2022,94587,10989
+Tata,Punch,Spark Plug Replacement,2023,153086,4934
+Tata,Punch,Engine Overheating,2023,119966,13649
+Tata,Punch,Timing Belt Replacement,2020,167103,17453
+Tata,Punch,Engine Oil Change,2016,108581,5611
+Tata,Punch,Wheel Balancing,2025,93751,2459
+Tata,Punch,Timing Belt Replacement,2018,84454,10017
+Tata,Punch,Alternator Replacement,2019,59719,12073
+Tata,Punch,Clutch Replacement,2015,5606,18307
+Tata,Punch,Starter Motor Repair,2021,17495,13621
+Tata,Punch,Alternator Replacement,2024,118349,17977
+Tata,Punch,Radiator Repair,2025,9288,8682
+Tata,Nexon,Headlight Replacement,2022,44265,11098
+Tata,Nexon,Clutch Replacement,2014,187594,17857
+Tata,Nexon,Timing Belt Replacement,2023,71483,8391
+Tata,Nexon,Coolant Replacement,2016,138528,9143
+Tata,Nexon,Timing Belt Replacement,2024,70245,9250
+Tata,Nexon,Headlight Replacement,2020,118997,15333
+Tata,Nexon,Tyre Replacement,2014,69675,25357
+Tata,Nexon,Air Filter Replacement,2013,127820,6696
+Tata,Nexon,Brake Fluid Change,2020,20123,3613
+Tata,Nexon,Battery Replacement,2024,6905,4883
+Tata,Nexon,Shock Absorber Replacement,2020,122370,17985
+Tata,Nexon,Wheel Balancing,2019,16704,2484
+Tata,Nexon,Clutch Replacement,2016,94019,19059
+Tata,Nexon,Engine Oil Change,2025,123061,7760
+Tata,Nexon,Suspension Repair,2021,109128,18854
+Tata,Nexon,AC Repair,2017,81239,10910
+Tata,Nexon,Cabin Filter Replacement,2018,148676,7832
+Tata,Nexon,Brake Fluid Change,2013,136632,8437
+Tata,Nexon,Brake Fluid Change,2020,94231,3303
+Tata,Nexon,Gearbox Repair,2021,14363,54074
+Tata,Harrier,Suspension Repair,2014,160874,14621
+Tata,Harrier,Gearbox Repair,2020,21079,42678
+Tata,Harrier,Wheel Alignment,2020,9792,1049
+Tata,Harrier,Battery Replacement,2013,104408,11863
+Tata,Harrier,Tyre Replacement,2014,163259,35589
+Tata,Harrier,Tyre Replacement,2024,107109,31865
+Tata,Harrier,Radiator Repair,2013,114929,8080
+Tata,Harrier,Shock Absorber Replacement,2021,31872,7599
+Tata,Harrier,Coolant Replacement,2025,60329,3267
+Tata,Harrier,Starter Motor Repair,2023,98465,10772
+Tata,Harrier,Engine Oil Change,2025,186729,9930
+Tata,Harrier,Fuel Pump Repair,2024,50212,8981
+Tata,Harrier,Coolant Replacement,2015,23067,3487
+Tata,Harrier,Alternator Replacement,2023,185680,22761
+Tata,Harrier,Wheel Balancing,2025,18893,1338
+Tata,Harrier,Starter Motor Repair,2023,59157,13266
+Tata,Harrier,Wheel Balancing,2014,61144,3764
+Tata,Harrier,Spark Plug Replacement,2019,107785,6305
+Tata,Harrier,Clutch Replacement,2013,52152,13503
+Tata,Harrier,Alternator Replacement,2024,97237,10284
+Tata,Safari,Radiator Repair,2020,159423,10881
+Tata,Safari,Coolant Replacement,2012,26889,4761
+Tata,Safari,Suspension Repair,2015,180114,27790
+Tata,Safari,Coolant Replacement,2014,97074,4094
+Tata,Safari,Engine Overheating,2017,48320,7644
+Tata,Safari,Shock Absorber Replacement,2021,24393,11296
+Tata,Safari,Headlight Replacement,2019,136916,5818
+Tata,Safari,Tyre Replacement,2021,33298,25685
+Tata,Safari,Battery Replacement,2013,77105,15160
+Tata,Safari,Radiator Repair,2021,102794,14137
+Tata,Safari,Suspension Repair,2024,118134,20124
+Tata,Safari,Battery Replacement,2018,56010,10211
+Tata,Safari,Spark Plug Replacement,2015,148331,9744
+Tata,Safari,Suspension Repair,2021,44159,7877
+Tata,Safari,Cabin Filter Replacement,2017,68783,5042
+Tata,Safari,Gearbox Repair,2019,161369,60124
+Tata,Safari,Air Filter Replacement,2016,194992,9288
+Tata,Safari,Coolant Leak,2022,13428,3901
+Tata,Safari,Coolant Leak,2023,80836,7969
+Tata,Safari,Fuel Pump Repair,2024,14424,13320
+Tata,Curvv,Headlight Replacement,2019,94210,6391
+Tata,Curvv,Brake Fluid Change,2016,8224,3328
+Tata,Curvv,Fuel Pump Repair,2017,185085,16022
+Tata,Curvv,AC Repair,2025,192124,11503
+Tata,Curvv,Steering Rack Repair,2012,115379,29546
+Tata,Curvv,Brake Fluid Change,2025,145876,7090
+Tata,Curvv,Coolant Replacement,2022,106712,4094
+Tata,Curvv,Timing Belt Replacement,2020,30488,9178
+Tata,Curvv,Coolant Leak,2021,97549,4540
+Tata,Curvv,Air Filter Replacement,2016,143474,4043
+Tata,Curvv,Engine Oil Change,2018,139010,6651
+Tata,Curvv,Cabin Filter Replacement,2018,27959,3242
+Tata,Curvv,Timing Belt Replacement,2017,140349,12469
+Tata,Curvv,Radiator Repair,2024,191117,6899
+Tata,Curvv,Gearbox Repair,2016,199464,48261
+Tata,Curvv,Headlight Replacement,2024,56838,4956
+Tata,Curvv,Fuel Pump Repair,2018,194070,8443
+Tata,Curvv,Brake Fluid Change,2019,60817,2927
+Tata,Curvv,Shock Absorber Replacement,2023,11961,11670
+Tata,Curvv,Steering Rack Repair,2024,150524,29064
+Mahindra,Bolero,AC Repair,2023,142781,18487
+Mahindra,Bolero,Coolant Replacement,2016,145765,10181
+Mahindra,Bolero,Gearbox Repair,2021,32090,39416
+Mahindra,Bolero,Coolant Replacement,2017,126384,7367
+Mahindra,Bolero,Battery Replacement,2019,131602,10245
+Mahindra,Bolero,Shock Absorber Replacement,2022,23613,8383
+Mahindra,Bolero,Brake Pad Replacement,2012,25924,7449
+Mahindra,Bolero,Tyre Replacement,2019,130069,46117
+Mahindra,Bolero,Shock Absorber Replacement,2025,42641,17571
+Mahindra,Bolero,Fuel Pump Repair,2018,92450,10796
+Mahindra,Bolero,Brake Pad Replacement,2018,99306,11551
+Mahindra,Bolero,Timing Belt Replacement,2014,34198,9778
+Mahindra,Bolero,Timing Belt Replacement,2015,152736,15305
+Mahindra,Bolero,Shock Absorber Replacement,2025,61864,7722
+Mahindra,Bolero,Spark Plug Replacement,2016,93793,5753
+Mahindra,Bolero,Battery Replacement,2017,40819,9593
+Mahindra,Bolero,Fuel Pump Repair,2015,171648,10608
+Mahindra,Bolero,Brake Fluid Change,2014,91405,6949
+Mahindra,Bolero,Coolant Replacement,2025,108532,3132
+Mahindra,Bolero,Starter Motor Repair,2021,68667,8231
+Mahindra,Bolero Neo,Starter Motor Repair,2024,24175,11741
+Mahindra,Bolero Neo,Brake Fluid Change,2020,21027,2079
+Mahindra,Bolero Neo,Clutch Replacement,2012,168470,25325
+Mahindra,Bolero Neo,Tyre Replacement,2016,6507,24721
+Mahindra,Bolero Neo,Fuel Pump Repair,2019,39396,12549
+Mahindra,Bolero Neo,Brake Fluid Change,2013,26124,3189
+Mahindra,Bolero Neo,Fuel Pump Repair,2012,170329,20889
+Mahindra,Bolero Neo,Coolant Leak,2022,84437,9641
+Mahindra,Bolero Neo,Air Filter Replacement,2022,73176,3515
+Mahindra,Bolero Neo,Radiator Repair,2019,130473,12670
+Mahindra,Bolero Neo,AC Repair,2019,147805,17078
+Mahindra,Bolero Neo,Wheel Alignment,2017,26686,3141
+Mahindra,Bolero Neo,Engine Overheating,2017,190277,25438
+Mahindra,Bolero Neo,Engine Overheating,2021,57464,26349
+Mahindra,Bolero Neo,Wheel Alignment,2018,44346,3224
+Mahindra,Bolero Neo,Cabin Filter Replacement,2018,14477,2396
+Mahindra,Bolero Neo,Battery Replacement,2023,45519,7549
+Mahindra,Bolero Neo,Starter Motor Repair,2017,66458,12743
+Mahindra,Bolero Neo,Brake Pad Replacement,2025,112419,9672
+Mahindra,Bolero Neo,AC Repair,2017,25663,13605
+Mahindra,Thar,Air Filter Replacement,2019,115471,7119
+Mahindra,Thar,Fuel Pump Repair,2013,75800,12323
+Mahindra,Thar,Battery Replacement,2022,184999,14501
+Mahindra,Thar,Radiator Repair,2016,74052,10143
+Mahindra,Thar,Air Filter Replacement,2021,156716,7732
+Mahindra,Thar,Tyre Replacement,2020,159465,33764
+Mahindra,Thar,Tyre Replacement,2016,74659,25523
+Mahindra,Thar,Wheel Alignment,2024,149991,8463
+Mahindra,Thar,Wheel Alignment,2019,197631,6639
+Mahindra,Thar,Headlight Replacement,2024,43316,10555
+Mahindra,Thar,Coolant Leak,2015,153285,7870
+Mahindra,Thar,Brake Fluid Change,2024,103125,5174
+Mahindra,Thar,Gearbox Repair,2018,40772,24056
+Mahindra,Thar,Coolant Replacement,2021,124517,5494
+Mahindra,Thar,Spark Plug Replacement,2025,188994,10768
+Mahindra,Thar,Radiator Repair,2019,94598,14393
+Mahindra,Thar,Wheel Balancing,2025,175156,5799
+Mahindra,Thar,Starter Motor Repair,2016,85439,15866
+Mahindra,Thar,Cabin Filter Replacement,2021,103936,3989
+Mahindra,Thar,Starter Motor Repair,2014,128933,14445
+Mahindra,XUV 3XO,Brake Pad Replacement,2018,135541,12595
+Mahindra,XUV 3XO,Spark Plug Replacement,2014,173406,7246
+Mahindra,XUV 3XO,Wheel Alignment,2013,171956,5415
+Mahindra,XUV 3XO,Cabin Filter Replacement,2018,12834,3303
+Mahindra,XUV 3XO,Engine Overheating,2024,193546,14172
+Mahindra,XUV 3XO,Cabin Filter Replacement,2012,109989,4866
+Mahindra,XUV 3XO,Starter Motor Repair,2016,9997,15389
+Mahindra,XUV 3XO,Wheel Balancing,2021,138684,5173
+Mahindra,XUV 3XO,Coolant Replacement,2018,56909,4839
+Mahindra,XUV 3XO,Fuel Pump Repair,2021,18091,7661
+Mahindra,XUV 3XO,Tyre Replacement,2025,196992,37755
+Mahindra,XUV 3XO,Air Filter Replacement,2022,34556,2847
+Mahindra,XUV 3XO,Engine Overheating,2012,23882,13399
+Mahindra,XUV 3XO,Coolant Leak,2022,171196,9934
+Mahindra,XUV 3XO,Alternator Replacement,2023,28957,18613
+Mahindra,XUV 3XO,Coolant Leak,2016,95633,5902
+Mahindra,XUV 3XO,Brake Pad Replacement,2018,107979,10031
+Mahindra,XUV 3XO,Brake Fluid Change,2019,182756,9748
+Mahindra,XUV 3XO,Gearbox Repair,2013,143339,61023
+Mahindra,XUV 3XO,Spark Plug Replacement,2020,193794,10122
+Mahindra,Scorpio N,Tyre Replacement,2021,186885,45136
+Mahindra,Scorpio N,Tyre Replacement,2025,169099,38971
+Mahindra,Scorpio N,Suspension Repair,2022,105867,16224
+Mahindra,Scorpio N,Coolant Replacement,2017,33902,2902
+Mahindra,Scorpio N,Coolant Replacement,2023,122069,6523
+Mahindra,Scorpio N,Engine Overheating,2016,192443,15845
+Mahindra,Scorpio N,Headlight Replacement,2023,14094,4809
+Mahindra,Scorpio N,Shock Absorber Replacement,2019,85343,9370
+Mahindra,Scorpio N,Brake Pad Replacement,2017,160311,13193
+Mahindra,Scorpio N,Clutch Replacement,2014,157603,20311
+Mahindra,Scorpio N,Cabin Filter Replacement,2019,192450,8708
+Mahindra,Scorpio N,Coolant Leak,2016,75326,6700
+Mahindra,Scorpio N,Air Filter Replacement,2018,109206,3512
+Mahindra,Scorpio N,Cabin Filter Replacement,2017,140966,5239
+Mahindra,Scorpio N,Alternator Replacement,2023,99883,11685
+Mahindra,Scorpio N,Radiator Repair,2022,95884,10255
+Mahindra,Scorpio N,Tyre Replacement,2016,169391,41733
+Mahindra,Scorpio N,Coolant Replacement,2016,70392,4070
+Mahindra,Scorpio N,Wheel Balancing,2017,13401,2224
+Mahindra,Scorpio N,Wheel Alignment,2021,88211,5189
+Mahindra,XUV700,Engine Oil Change,2014,65710,6129
+Mahindra,XUV700,Clutch Replacement,2017,186989,15261
+Mahindra,XUV700,Shock Absorber Replacement,2023,145152,18878
+Mahindra,XUV700,Gearbox Repair,2025,182373,45551
+Mahindra,XUV700,Brake Pad Replacement,2025,7883,4438
+Mahindra,XUV700,Brake Fluid Change,2025,101548,3388
+Mahindra,XUV700,Alternator Replacement,2014,108145,18342
+Mahindra,XUV700,Headlight Replacement,2015,46848,9367
+Mahindra,XUV700,Brake Fluid Change,2024,68635,4731
+Mahindra,XUV700,Brake Fluid Change,2012,179985,10785
+Mahindra,XUV700,Cabin Filter Replacement,2019,143422,6938
+Mahindra,XUV700,Coolant Replacement,2025,81653,3594
+Mahindra,XUV700,Gearbox Repair,2022,115452,48002
+Mahindra,XUV700,Air Filter Replacement,2015,167401,6810
+Mahindra,XUV700,Battery Replacement,2017,159642,18123
+Mahindra,XUV700,Air Filter Replacement,2014,157424,10246
+Mahindra,XUV700,Radiator Repair,2012,48688,8424
+Mahindra,XUV700,Timing Belt Replacement,2022,86583,10504
+Mahindra,XUV700,Fuel Pump Repair,2021,29639,12514
+Mahindra,XUV700,Engine Oil Change,2015,80508,7645
+Honda,Amaze,Brake Fluid Change,2015,71588,5654
+Honda,Amaze,Steering Rack Repair,2021,115751,27728
+Honda,Amaze,Spark Plug Replacement,2020,103295,4081
+Honda,Amaze,Battery Replacement,2014,132636,15446
+Honda,Amaze,Headlight Replacement,2025,39851,9085
+Honda,Amaze,Coolant Leak,2019,92782,6185
+Honda,Amaze,Starter Motor Repair,2023,92327,15409
+Honda,Amaze,Coolant Leak,2012,197428,9879
+Honda,Amaze,Wheel Balancing,2017,65364,3496
+Honda,Amaze,Coolant Leak,2017,73600,3830
+Honda,Amaze,Tyre Replacement,2018,155578,23683
+Honda,Amaze,Tyre Replacement,2022,113842,17025
+Honda,Amaze,Gearbox Repair,2019,9728,47222
+Honda,Amaze,Headlight Replacement,2015,36420,3404
+Honda,Amaze,Brake Pad Replacement,2021,159203,6325
+Honda,Amaze,Engine Overheating,2021,180955,16461
+Honda,Amaze,Wheel Alignment,2014,36415,3959
+Honda,Amaze,Battery Replacement,2019,123503,11870
+Honda,Amaze,Wheel Balancing,2024,132464,5693
+Honda,Amaze,Suspension Repair,2023,194605,21147
+Honda,City,Coolant Leak,2016,112430,7499
+Honda,City,Shock Absorber Replacement,2024,64934,9571
+Honda,City,Brake Pad Replacement,2025,51181,5486
+Honda,City,Engine Oil Change,2020,21210,3926
+Honda,City,AC Repair,2022,10386,12034
+Honda,City,Wheel Alignment,2020,189023,6920
+Honda,City,Coolant Replacement,2019,17060,2978
+Honda,City,Wheel Balancing,2017,191417,9731
+Honda,City,Radiator Repair,2025,193794,16224
+Honda,City,AC Repair,2012,74025,9976
+Honda,City,Battery Replacement,2019,111533,17015
+Honda,City,Wheel Alignment,2020,113423,5277
+Honda,City,Air Filter Replacement,2025,33816,2363
+Honda,City,Cabin Filter Replacement,2017,148167,8062
+Honda,City,Headlight Replacement,2021,165179,6041
+Honda,City,Fuel Pump Repair,2017,68321,15507
+Honda,City,Suspension Repair,2017,141898,27796
+Honda,City,Starter Motor Repair,2016,63228,17286
+Honda,City,Coolant Replacement,2021,19080,3793
+Honda,City,Spark Plug Replacement,2014,197800,7853
+Honda,Elevate,Air Filter Replacement,2021,100488,4349
+Honda,Elevate,Clutch Replacement,2018,116421,20479
+Honda,Elevate,Shock Absorber Replacement,2016,111162,19751
+Honda,Elevate,Engine Oil Change,2019,68953,6314
+Honda,Elevate,Fuel Pump Repair,2017,192052,13227
+Honda,Elevate,Tyre Replacement,2014,36201,21295
+Honda,Elevate,Wheel Alignment,2025,164660,4994
+Honda,Elevate,Timing Belt Replacement,2024,44105,13134
+Honda,Elevate,Spark Plug Replacement,2015,42957,4593
+Honda,Elevate,AC Repair,2025,109479,10166
+Honda,Elevate,Engine Overheating,2013,16039,25284
+Honda,Elevate,Headlight Replacement,2025,22280,9580
+Honda,Elevate,Radiator Repair,2014,80157,13563
+Honda,Elevate,Clutch Replacement,2013,37612,15444
+Honda,Elevate,Headlight Replacement,2015,111135,14783
+Honda,Elevate,Air Filter Replacement,2017,194963,10122
+Honda,Elevate,Brake Fluid Change,2017,96708,3873
+Honda,Elevate,Engine Overheating,2021,71426,11155
+Honda,Elevate,AC Repair,2018,49284,7438
+Honda,Elevate,Air Filter Replacement,2019,144859,3873
+Toyota,Glanza,Starter Motor Repair,2018,140670,19997
+Toyota,Glanza,Brake Pad Replacement,2015,197180,10203
+Toyota,Glanza,Tyre Replacement,2024,56983,38073
+Toyota,Glanza,Brake Fluid Change,2014,123594,6507
+Toyota,Glanza,Brake Pad Replacement,2014,29154,9610
+Toyota,Glanza,Engine Oil Change,2019,131897,7478
+Toyota,Glanza,Gearbox Repair,2024,46498,43431
+Toyota,Glanza,Shock Absorber Replacement,2025,83333,12157
+Toyota,Glanza,Air Filter Replacement,2014,83557,6315
+Toyota,Glanza,Spark Plug Replacement,2015,156026,9811
+Toyota,Glanza,Clutch Replacement,2017,28760,17502
+Toyota,Glanza,Cabin Filter Replacement,2022,124125,5691
+Toyota,Glanza,Brake Pad Replacement,2017,134714,11906
+Toyota,Glanza,Shock Absorber Replacement,2021,148210,9908
+Toyota,Glanza,Steering Rack Repair,2023,75597,26246
+Toyota,Glanza,Wheel Alignment,2015,69585,2386
+Toyota,Glanza,AC Repair,2023,43198,6073
+Toyota,Glanza,Engine Overheating,2014,63694,12618
+Toyota,Glanza,Wheel Balancing,2012,151125,5785
+Toyota,Glanza,Steering Rack Repair,2012,25985,29873
+Toyota,Rumion,Steering Rack Repair,2012,182569,26480
+Toyota,Rumion,Wheel Balancing,2022,174730,8267
+Toyota,Rumion,Shock Absorber Replacement,2023,166161,16341
+Toyota,Rumion,Fuel Pump Repair,2017,99890,11120
+Toyota,Rumion,Brake Pad Replacement,2020,80810,10030
+Toyota,Rumion,Brake Fluid Change,2022,162518,8128
+Toyota,Rumion,Gearbox Repair,2013,51005,20940
+Toyota,Rumion,Cabin Filter Replacement,2024,98855,4607
+Toyota,Rumion,Coolant Leak,2012,5424,4800
+Toyota,Rumion,Steering Rack Repair,2025,175889,16518
+Toyota,Rumion,Alternator Replacement,2024,99849,10304
+Toyota,Rumion,Engine Overheating,2013,29553,13534
+Toyota,Rumion,AC Repair,2022,131988,11096
+Toyota,Rumion,Spark Plug Replacement,2013,14349,2438
+Toyota,Rumion,Radiator Repair,2017,199320,14750
+Toyota,Rumion,Fuel Pump Repair,2020,52674,7702
+Toyota,Rumion,Headlight Replacement,2014,17916,7244
+Toyota,Rumion,Cabin Filter Replacement,2015,15694,4167
+Toyota,Rumion,Clutch Replacement,2016,191003,28087
+Toyota,Rumion,Engine Oil Change,2024,64557,4711
+Toyota,Urban Cruiser Hyryder,Gearbox Repair,2013,72900,43899
+Toyota,Urban Cruiser Hyryder,Engine Overheating,2020,124079,26878
+Toyota,Urban Cruiser Hyryder,Wheel Balancing,2022,154068,7924
+Toyota,Urban Cruiser Hyryder,Brake Fluid Change,2012,72277,6120
+Toyota,Urban Cruiser Hyryder,Wheel Balancing,2025,19126,1727
+Toyota,Urban Cruiser Hyryder,Engine Overheating,2014,32009,23064
+Toyota,Urban Cruiser Hyryder,Gearbox Repair,2020,86038,27673
+Toyota,Urban Cruiser Hyryder,Headlight Replacement,2017,134048,5657
+Toyota,Urban Cruiser Hyryder,Wheel Alignment,2023,134443,6663
+Toyota,Urban Cruiser Hyryder,Spark Plug Replacement,2017,182155,8871
+Toyota,Urban Cruiser Hyryder,Brake Pad Replacement,2013,171402,13363
+Toyota,Urban Cruiser Hyryder,Air Filter Replacement,2013,88351,3945
+Toyota,Urban Cruiser Hyryder,Engine Overheating,2018,143200,19440
+Toyota,Urban Cruiser Hyryder,Coolant Replacement,2012,43015,3836
+Toyota,Urban Cruiser Hyryder,Tyre Replacement,2019,199042,25670
+Toyota,Urban Cruiser Hyryder,Radiator Repair,2018,190645,13356
+Toyota,Urban Cruiser Hyryder,Air Filter Replacement,2016,182930,4222
+Toyota,Urban Cruiser Hyryder,Coolant Leak,2025,99767,9509
+Toyota,Urban Cruiser Hyryder,Clutch Replacement,2023,37511,8194
+Toyota,Urban Cruiser Hyryder,Radiator Repair,2015,171267,12291
+Toyota,Innova Crysta,Brake Fluid Change,2012,186513,7113
+Toyota,Innova Crysta,Cabin Filter Replacement,2017,98764,5542
+Toyota,Innova Crysta,Shock Absorber Replacement,2017,10059,7254
+Toyota,Innova Crysta,AC Repair,2024,89963,8153
+Toyota,Innova Crysta,Alternator Replacement,2019,117409,8513
+Toyota,Innova Crysta,Spark Plug Replacement,2014,121055,7586
+Toyota,Innova Crysta,Suspension Repair,2023,133063,24974
+Toyota,Innova Crysta,Clutch Replacement,2016,148474,24296
+Toyota,Innova Crysta,Timing Belt Replacement,2024,148697,11460
+Toyota,Innova Crysta,Timing Belt Replacement,2020,195275,15554
+Toyota,Innova Crysta,Clutch Replacement,2018,136477,24060
+Toyota,Innova Crysta,Spark Plug Replacement,2022,34683,3803
+Toyota,Innova Crysta,Radiator Repair,2024,125924,17451
+Toyota,Innova Crysta,Coolant Replacement,2016,146593,6565
+Toyota,Innova Crysta,AC Repair,2020,121697,8640
+Toyota,Innova Crysta,Wheel Alignment,2012,158658,8063
+Toyota,Innova Crysta,Starter Motor Repair,2015,83997,8491
+Toyota,Innova Crysta,Tyre Replacement,2012,45525,36860
+Toyota,Innova Crysta,Engine Overheating,2025,90646,10636
+Toyota,Innova Crysta,Fuel Pump Repair,2013,93386,9966
+Toyota,Innova Hycross,Air Filter Replacement,2023,184962,4906
+Toyota,Innova Hycross,Engine Oil Change,2017,38728,5853
+Toyota,Innova Hycross,Tyre Replacement,2025,154291,21161
+Toyota,Innova Hycross,Steering Rack Repair,2022,178431,31970
+Toyota,Innova Hycross,Air Filter Replacement,2013,5599,3097
+Toyota,Innova Hycross,Headlight Replacement,2017,38996,7155
+Toyota,Innova Hycross,Spark Plug Replacement,2015,106309,7103
+Toyota,Innova Hycross,Brake Fluid Change,2012,21181,2893
+Toyota,Innova Hycross,Starter Motor Repair,2017,144570,22800
+Toyota,Innova Hycross,Engine Overheating,2014,180293,21638
+Toyota,Innova Hycross,Engine Oil Change,2025,90508,3967
+Toyota,Innova Hycross,Suspension Repair,2012,116964,29137
+Toyota,Innova Hycross,Clutch Replacement,2015,89878,18532
+Toyota,Innova Hycross,Starter Motor Repair,2017,61403,10926
+Toyota,Innova Hycross,Steering Rack Repair,2021,65699,18319
+Toyota,Innova Hycross,Timing Belt Replacement,2014,40411,7748
+Toyota,Innova Hycross,Alternator Replacement,2013,144236,12241
+Toyota,Innova Hycross,Suspension Repair,2018,99040,13098
+Toyota,Innova Hycross,Wheel Balancing,2016,68740,4544
+Toyota,Innova Hycross,Suspension Repair,2020,184100,15867
+Toyota,Fortuner,Engine Overheating,2018,70166,20908
+Toyota,Fortuner,Brake Pad Replacement,2015,81122,7413
+Toyota,Fortuner,Steering Rack Repair,2012,136698,15477
+Toyota,Fortuner,Gearbox Repair,2015,189010,38876
+Toyota,Fortuner,Radiator Repair,2020,147465,9071
+Toyota,Fortuner,Tyre Replacement,2025,132254,23629
+Toyota,Fortuner,Headlight Replacement,2012,140827,17036
+Toyota,Fortuner,Engine Oil Change,2013,63607,5910
+Toyota,Fortuner,Spark Plug Replacement,2024,34843,2476
+Toyota,Fortuner,Spark Plug Replacement,2022,37788,3919
+Toyota,Fortuner,Cabin Filter Replacement,2013,45346,2072
+Toyota,Fortuner,Engine Overheating,2017,14880,8104
+Toyota,Fortuner,Steering Rack Repair,2023,97527,21198
+Toyota,Fortuner,Wheel Balancing,2016,142518,5581
+Toyota,Fortuner,Gearbox Repair,2016,102437,40345
+Toyota,Fortuner,Wheel Balancing,2013,73016,2819
+Toyota,Fortuner,Air Filter Replacement,2018,101063,3686
+Toyota,Fortuner,Headlight Replacement,2024,75373,5369
+Toyota,Fortuner,Clutch Replacement,2014,23934,17511
+Toyota,Fortuner,Wheel Alignment,2015,92660,6931
+Toyota,Camry,Air Filter Replacement,2022,148272,7193
+Toyota,Camry,Coolant Replacement,2023,138430,7653
+Toyota,Camry,Wheel Alignment,2021,80349,3756
+Toyota,Camry,Wheel Alignment,2023,145941,3957
+Toyota,Camry,Radiator Repair,2023,44241,4569
+Toyota,Camry,Alternator Replacement,2017,149877,18913
+Toyota,Camry,Battery Replacement,2014,188635,16035
+Toyota,Camry,Coolant Replacement,2022,36290,2161
+Toyota,Camry,Fuel Pump Repair,2025,76027,11031
+Toyota,Camry,Wheel Alignment,2022,148574,3331
+Toyota,Camry,Shock Absorber Replacement,2016,78635,7904
+Toyota,Camry,Steering Rack Repair,2023,171318,30424
+Toyota,Camry,Engine Overheating,2015,194079,17138
+Toyota,Camry,Gearbox Repair,2025,49105,37104
+Toyota,Camry,Starter Motor Repair,2014,119565,10021
+Toyota,Camry,Brake Pad Replacement,2023,182496,12772
+Toyota,Camry,Cabin Filter Replacement,2015,164401,4211
+Toyota,Camry,Steering Rack Repair,2013,195308,17531
+Toyota,Camry,Engine Overheating,2016,8094,5022
+Toyota,Camry,Radiator Repair,2024,163561,17950
+Toyota,Hilux,Battery Replacement,2016,24899,7108
+Toyota,Hilux,Coolant Leak,2016,199536,7588
+Toyota,Hilux,Coolant Replacement,2014,14841,3816
+Toyota,Hilux,Timing Belt Replacement,2022,90354,11480
+Toyota,Hilux,Headlight Replacement,2013,99922,14276
+Toyota,Hilux,Tyre Replacement,2025,43891,35376
+Toyota,Hilux,Tyre Replacement,2016,112327,22068
+Toyota,Hilux,Fuel Pump Repair,2021,19325,14555
+Toyota,Hilux,Fuel Pump Repair,2024,157399,16199
+Toyota,Hilux,Gearbox Repair,2025,102414,26674
+Toyota,Hilux,Headlight Replacement,2014,99854,9509
+Toyota,Hilux,Wheel Balancing,2025,164037,8879
+Toyota,Hilux,Wheel Alignment,2012,87289,6013
+Toyota,Hilux,Timing Belt Replacement,2019,150191,14314
+Toyota,Hilux,Steering Rack Repair,2018,152722,27814
+Toyota,Hilux,Shock Absorber Replacement,2017,55920,9826
+Toyota,Hilux,Engine Overheating,2020,25778,10023
+Toyota,Hilux,Fuel Pump Repair,2013,38200,8315
+Toyota,Hilux,Alternator Replacement,2020,141877,20541
+Toyota,Hilux,Suspension Repair,2022,108550,10416
+Kia,Sonet,Starter Motor Repair,2019,174023,18072
+Kia,Sonet,Shock Absorber Replacement,2021,122425,20534
+Kia,Sonet,Starter Motor Repair,2017,161166,8136
+Kia,Sonet,Headlight Replacement,2022,83853,8649
+Kia,Sonet,Wheel Balancing,2025,66031,4482
+Kia,Sonet,Engine Overheating,2024,22152,15004
+Kia,Sonet,Brake Fluid Change,2012,150796,8381
+Kia,Sonet,Alternator Replacement,2015,29697,8186
+Kia,Sonet,Coolant Leak,2017,42770,6294
+Kia,Sonet,Fuel Pump Repair,2012,118895,12069
+Kia,Sonet,Timing Belt Replacement,2017,6745,11747
+Kia,Sonet,Fuel Pump Repair,2020,92038,10822
+Kia,Sonet,Wheel Alignment,2020,157744,5475
+Kia,Sonet,Starter Motor Repair,2015,111323,12018
+Kia,Sonet,Suspension Repair,2012,15907,23024
+Kia,Sonet,Steering Rack Repair,2013,58073,13583
+Kia,Sonet,Starter Motor Repair,2025,163679,7517
+Kia,Sonet,Brake Fluid Change,2019,57396,3714
+Kia,Sonet,AC Repair,2015,166077,18674
+Kia,Sonet,Clutch Replacement,2014,91008,15986
+Kia,Syros,Fuel Pump Repair,2022,155492,16163
+Kia,Syros,Wheel Alignment,2022,88642,5443
+Kia,Syros,Spark Plug Replacement,2012,126924,7484
+Kia,Syros,Battery Replacement,2015,143028,15023
+Kia,Syros,Tyre Replacement,2018,82624,34887
+Kia,Syros,Timing Belt Replacement,2023,136109,10877
+Kia,Syros,Radiator Repair,2025,47293,13889
+Kia,Syros,Air Filter Replacement,2018,124176,5185
+Kia,Syros,Tyre Replacement,2022,198628,39097
+Kia,Syros,Gearbox Repair,2023,29592,23954
+Kia,Syros,Cabin Filter Replacement,2014,88822,5160
+Kia,Syros,Starter Motor Repair,2013,100553,8466
+Kia,Syros,Wheel Balancing,2019,144310,3227
+Kia,Syros,Wheel Balancing,2020,75006,3517
+Kia,Syros,Steering Rack Repair,2021,84687,16686
+Kia,Syros,Coolant Leak,2025,198703,10332
+Kia,Syros,Suspension Repair,2015,16829,24540
+Kia,Syros,Brake Fluid Change,2013,151662,4401
+Kia,Syros,Cabin Filter Replacement,2017,26620,2845
+Kia,Syros,Air Filter Replacement,2018,136167,6647
+Kia,Seltos,Wheel Balancing,2015,81331,3884
+Kia,Seltos,Coolant Replacement,2021,116748,4076
+Kia,Seltos,Timing Belt Replacement,2012,170331,13348
+Kia,Seltos,Clutch Replacement,2024,86510,16898
+Kia,Seltos,AC Repair,2020,69215,10450
+Kia,Seltos,Brake Fluid Change,2024,25292,2069
+Kia,Seltos,Gearbox Repair,2018,137688,59475
+Kia,Seltos,Brake Fluid Change,2020,125682,7336
+Kia,Seltos,Coolant Leak,2018,46198,5542
+Kia,Seltos,Engine Overheating,2024,98524,21202
+Kia,Seltos,Headlight Replacement,2018,190860,5777
+Kia,Seltos,Radiator Repair,2018,17726,13115
+Kia,Seltos,Battery Replacement,2018,128578,9581
+Kia,Seltos,Headlight Replacement,2019,124099,12904
+Kia,Seltos,Tyre Replacement,2013,32529,40738
+Kia,Seltos,Cabin Filter Replacement,2017,124500,6116
+Kia,Seltos,Wheel Alignment,2023,12500,1798
+Kia,Seltos,AC Repair,2024,176808,12586
+Kia,Seltos,AC Repair,2021,175432,19522
+Kia,Seltos,Spark Plug Replacement,2024,198573,6329
+Kia,Carens,Starter Motor Repair,2019,10485,9199
+Kia,Carens,Engine Overheating,2017,149110,14728
+Kia,Carens,Coolant Leak,2017,124681,8039
+Kia,Carens,Engine Oil Change,2018,165408,7359
+Kia,Carens,Brake Pad Replacement,2019,57944,8465
+Kia,Carens,Alternator Replacement,2015,121796,12100
+Kia,Carens,Fuel Pump Repair,2019,167913,17359
+Kia,Carens,Brake Pad Replacement,2015,158043,11580
+Kia,Carens,AC Repair,2015,99838,11853
+Kia,Carens,Brake Fluid Change,2013,75026,4976
+Kia,Carens,Engine Oil Change,2016,75326,5675
+Kia,Carens,Coolant Replacement,2023,140200,7161
+Kia,Carens,Coolant Replacement,2025,123174,5675
+Kia,Carens,Gearbox Repair,2024,129308,29892
+Kia,Carens,Steering Rack Repair,2022,156024,18868
+Kia,Carens,Alternator Replacement,2020,120397,10009
+Kia,Carens,Cabin Filter Replacement,2016,70592,4892
+Kia,Carens,Coolant Leak,2025,172100,9338
+Kia,Carens,Spark Plug Replacement,2017,47490,5036
+Kia,Carens,Engine Oil Change,2012,37979,4102
+Kia,Carnival,Air Filter Replacement,2024,55472,3764
+Kia,Carnival,Timing Belt Replacement,2015,10330,13338
+Kia,Carnival,Timing Belt Replacement,2022,37200,8856
+Kia,Carnival,Coolant Leak,2018,164250,7707
+Kia,Carnival,Coolant Replacement,2018,44284,5345
+Kia,Carnival,Engine Oil Change,2018,102962,6574
+Kia,Carnival,Air Filter Replacement,2017,53889,5018
+Kia,Carnival,Tyre Replacement,2014,197397,34373
+Kia,Carnival,Shock Absorber Replacement,2017,120150,19638
+Kia,Carnival,Suspension Repair,2021,183567,14948
+Kia,Carnival,Headlight Replacement,2022,176101,6974
+Kia,Carnival,Radiator Repair,2015,92960,11193
+Kia,Carnival,Fuel Pump Repair,2020,77756,14916
+Kia,Carnival,Spark Plug Replacement,2025,79996,5249
+Kia,Carnival,Steering Rack Repair,2025,20125,22769
+Kia,Carnival,Coolant Leak,2022,142511,8494
+Kia,Carnival,Spark Plug Replacement,2014,25502,3828
+Kia,Carnival,Cabin Filter Replacement,2020,45092,4862
+Kia,Carnival,Engine Oil Change,2016,68400,5623
+Kia,Carnival,Coolant Leak,2012,7621,4430
+Kia,EV6,Brake Pad Replacement,2022,141583,9350
+Kia,EV6,Brake Pad Replacement,2014,37324,9317
+Kia,EV6,Air Filter Replacement,2012,159660,7073
+Kia,EV6,Starter Motor Repair,2012,174848,12196
+Kia,EV6,Gearbox Repair,2022,124468,26821
+Kia,EV6,Wheel Alignment,2017,73542,3094
+Kia,EV6,Coolant Leak,2018,36211,7404
+Kia,EV6,Steering Rack Repair,2020,177414,35642
+Kia,EV6,Brake Fluid Change,2015,64921,6261
+Kia,EV6,Wheel Balancing,2023,18863,2268
+Kia,EV6,Cabin Filter Replacement,2018,68965,5739
+Kia,EV6,Fuel Pump Repair,2021,156535,11274
+Kia,EV6,Steering Rack Repair,2015,57856,12687
+Kia,EV6,Starter Motor Repair,2014,153075,16684
+Kia,EV6,Coolant Leak,2017,74674,8540
+Kia,EV6,Cabin Filter Replacement,2019,69086,5169
+Kia,EV6,Coolant Leak,2014,66255,7045
+Kia,EV6,Starter Motor Repair,2025,85797,14313
+Kia,EV6,Clutch Replacement,2020,13310,14574
+Kia,EV6,Engine Overheating,2017,66730,14562
+MG,Comet EV,Brake Pad Replacement,2014,122324,9251
+MG,Comet EV,Wheel Balancing,2015,192934,11468
+MG,Comet EV,Starter Motor Repair,2017,117424,12328
+MG,Comet EV,Coolant Leak,2021,195057,8610
+MG,Comet EV,Steering Rack Repair,2013,85101,26889
+MG,Comet EV,Suspension Repair,2020,192958,24341
+MG,Comet EV,Steering Rack Repair,2023,197475,31722
+MG,Comet EV,Engine Overheating,2020,61915,8601
+MG,Comet EV,Wheel Alignment,2015,164372,5013
+MG,Comet EV,Cabin Filter Replacement,2017,104615,7248
+MG,Comet EV,Timing Belt Replacement,2012,194424,16894
+MG,Comet EV,Tyre Replacement,2013,30515,40891
+MG,Comet EV,Suspension Repair,2016,65998,22227
+MG,Comet EV,Suspension Repair,2023,53368,19628
+MG,Comet EV,Coolant Replacement,2015,7051,3302
+MG,Comet EV,Alternator Replacement,2022,151650,19693
+MG,Comet EV,Wheel Alignment,2025,173941,4048
+MG,Comet EV,Timing Belt Replacement,2023,23145,8710
+MG,Comet EV,Cabin Filter Replacement,2012,93845,5069
+MG,Comet EV,Alternator Replacement,2014,180836,18368
+MG,Astor,Battery Replacement,2025,167016,14602
+MG,Astor,Timing Belt Replacement,2020,50531,10031
+MG,Astor,Gearbox Repair,2017,65044,35072
+MG,Astor,Starter Motor Repair,2014,12222,12369
+MG,Astor,Shock Absorber Replacement,2017,40064,18151
+MG,Astor,Clutch Replacement,2013,176738,19838
+MG,Astor,Clutch Replacement,2023,91896,15598
+MG,Astor,Tyre Replacement,2014,173354,48491
+MG,Astor,Coolant Replacement,2019,111067,5605
+MG,Astor,Engine Oil Change,2019,47260,5561
+MG,Astor,Suspension Repair,2020,62320,24790
+MG,Astor,Suspension Repair,2015,52923,12582
+MG,Astor,Starter Motor Repair,2021,33954,12926
+MG,Astor,Fuel Pump Repair,2016,51687,15159
+MG,Astor,Shock Absorber Replacement,2015,133684,15731
+MG,Astor,Clutch Replacement,2018,166864,11684
+MG,Astor,Steering Rack Repair,2013,55891,22293
+MG,Astor,Wheel Alignment,2025,181879,9203
+MG,Astor,Clutch Replacement,2022,133707,17120
+MG,Astor,Engine Overheating,2019,146132,19959
+MG,Hector,Starter Motor Repair,2025,53376,6948
+MG,Hector,Headlight Replacement,2015,198698,14276
+MG,Hector,Brake Fluid Change,2015,128429,8612
+MG,Hector,Gearbox Repair,2022,123874,32585
+MG,Hector,Alternator Replacement,2016,195846,15756
+MG,Hector,Cabin Filter Replacement,2017,67670,3396
+MG,Hector,Shock Absorber Replacement,2016,80647,13319
+MG,Hector,Air Filter Replacement,2017,130455,7051
+MG,Hector,Engine Overheating,2022,53785,18563
+MG,Hector,Brake Fluid Change,2014,132095,5572
+MG,Hector,Wheel Balancing,2016,148297,4615
+MG,Hector,Battery Replacement,2020,136842,9051
+MG,Hector,Spark Plug Replacement,2014,163488,8222
+MG,Hector,Alternator Replacement,2012,29123,11021
+MG,Hector,Brake Pad Replacement,2021,46962,6259
+MG,Hector,AC Repair,2020,174398,19074
+MG,Hector,Spark Plug Replacement,2014,70214,5139
+MG,Hector,Air Filter Replacement,2020,171721,9223
+MG,Hector,Cabin Filter Replacement,2016,170074,9036
+MG,Hector,AC Repair,2017,179229,14962
+MG,Hector Plus,Brake Pad Replacement,2016,35230,9585
+MG,Hector Plus,Engine Overheating,2024,152285,22428
+MG,Hector Plus,Coolant Leak,2025,144730,3964
+MG,Hector Plus,Coolant Replacement,2012,45788,5190
+MG,Hector Plus,Suspension Repair,2014,186921,22119
+MG,Hector Plus,Engine Overheating,2016,52713,26177
+MG,Hector Plus,Clutch Replacement,2015,79000,15604
+MG,Hector Plus,Radiator Repair,2024,131998,8990
+MG,Hector Plus,Wheel Alignment,2020,137642,5234
+MG,Hector Plus,Headlight Replacement,2023,87922,4831
+MG,Hector Plus,Headlight Replacement,2023,110982,11089
+MG,Hector Plus,Engine Overheating,2017,122340,20261
+MG,Hector Plus,Tyre Replacement,2022,174055,34822
+MG,Hector Plus,Radiator Repair,2021,14794,4780
+MG,Hector Plus,Gearbox Repair,2022,147649,29719
+MG,Hector Plus,Brake Pad Replacement,2017,16290,9126
+MG,Hector Plus,Battery Replacement,2015,69974,9181
+MG,Hector Plus,Brake Pad Replacement,2020,114868,9529
+MG,Hector Plus,Air Filter Replacement,2023,91165,4423
+MG,Hector Plus,Headlight Replacement,2022,94070,8111
+MG,Gloster,Suspension Repair,2022,84108,21019
+MG,Gloster,Starter Motor Repair,2022,85893,14066
+MG,Gloster,Air Filter Replacement,2014,36883,2820
+MG,Gloster,Brake Pad Replacement,2017,25018,9659
+MG,Gloster,Wheel Balancing,2019,98621,3169
+MG,Gloster,Clutch Replacement,2024,142485,18774
+MG,Gloster,Clutch Replacement,2017,51063,14963
+MG,Gloster,Spark Plug Replacement,2017,178258,9758
+MG,Gloster,Suspension Repair,2017,95999,29781
+MG,Gloster,Cabin Filter Replacement,2012,5114,1982
+MG,Gloster,Steering Rack Repair,2015,122749,36288
+MG,Gloster,Engine Oil Change,2015,95287,6592
+MG,Gloster,Wheel Balancing,2019,125710,4478
+MG,Gloster,Shock Absorber Replacement,2018,38240,16393
+MG,Gloster,Gearbox Repair,2015,65413,23839
+MG,Gloster,Wheel Balancing,2023,159451,7486
+MG,Gloster,Radiator Repair,2024,167076,12888
+MG,Gloster,Starter Motor Repair,2025,188447,19165
+MG,Gloster,Coolant Leak,2017,164274,10856
+MG,Gloster,Air Filter Replacement,2025,99449,3021
+MG,Windsor EV,Timing Belt Replacement,2012,159060,16177
+MG,Windsor EV,Timing Belt Replacement,2020,43841,13891
+MG,Windsor EV,Coolant Replacement,2021,179746,5008
+MG,Windsor EV,Shock Absorber Replacement,2019,142719,23580
+MG,Windsor EV,Engine Overheating,2023,61763,17981
+MG,Windsor EV,Wheel Balancing,2017,53098,2425
+MG,Windsor EV,Headlight Replacement,2016,50258,9501
+MG,Windsor EV,Radiator Repair,2021,62902,7856
+MG,Windsor EV,Engine Overheating,2015,161271,17910
+MG,Windsor EV,Alternator Replacement,2019,127063,22367
+MG,Windsor EV,Shock Absorber Replacement,2018,163883,11383
+MG,Windsor EV,Spark Plug Replacement,2020,118985,8915
+MG,Windsor EV,Battery Replacement,2022,82080,13217
+MG,Windsor EV,Suspension Repair,2020,102237,10623
+MG,Windsor EV,Engine Oil Change,2018,169325,8025
+MG,Windsor EV,Wheel Balancing,2020,127758,3434
+MG,Windsor EV,Tyre Replacement,2021,90094,16176
+MG,Windsor EV,Timing Belt Replacement,2024,163103,15509
+MG,Windsor EV,Starter Motor Repair,2016,9857,11852
+MG,Windsor EV,Tyre Replacement,2024,66623,29057
+Volkswagen,Virtus,Engine Oil Change,2024,197775,8370
+Volkswagen,Virtus,Clutch Replacement,2022,95569,19805
+Volkswagen,Virtus,Coolant Replacement,2022,195333,9377
+Volkswagen,Virtus,Brake Fluid Change,2022,40377,3010
+Volkswagen,Virtus,Shock Absorber Replacement,2018,66657,9519
+Volkswagen,Virtus,Fuel Pump Repair,2023,14665,8596
+Volkswagen,Virtus,Cabin Filter Replacement,2018,77013,5099
+Volkswagen,Virtus,Shock Absorber Replacement,2021,66160,9623
+Volkswagen,Virtus,Steering Rack Repair,2025,145030,26991
+Volkswagen,Virtus,Wheel Alignment,2018,84296,3924
+Volkswagen,Virtus,Engine Oil Change,2022,116583,4873
+Volkswagen,Virtus,Coolant Leak,2014,37640,5732
+Volkswagen,Virtus,Cabin Filter Replacement,2018,42993,4969
+Volkswagen,Virtus,Battery Replacement,2017,198060,15920
+Volkswagen,Virtus,Shock Absorber Replacement,2021,151675,17057
+Volkswagen,Virtus,Battery Replacement,2021,146335,13286
+Volkswagen,Virtus,Engine Oil Change,2016,68105,5252
+Volkswagen,Virtus,Tyre Replacement,2024,37460,16150
+Volkswagen,Virtus,Coolant Leak,2023,5859,3146
+Volkswagen,Virtus,Coolant Leak,2015,128591,9763
+Volkswagen,Taigun,Alternator Replacement,2016,137633,12606
+Volkswagen,Taigun,Engine Overheating,2023,87007,7666
+Volkswagen,Taigun,AC Repair,2022,137047,9160
+Volkswagen,Taigun,Brake Fluid Change,2024,192632,7559
+Volkswagen,Taigun,Battery Replacement,2025,199005,11097
+Volkswagen,Taigun,Engine Oil Change,2014,54732,4905
+Volkswagen,Taigun,Coolant Leak,2017,16379,5194
+Volkswagen,Taigun,Starter Motor Repair,2014,16515,6946
+Volkswagen,Taigun,Suspension Repair,2014,144498,20045
+Volkswagen,Taigun,Shock Absorber Replacement,2021,95894,11098
+Volkswagen,Taigun,Headlight Replacement,2025,100286,11696
+Volkswagen,Taigun,Fuel Pump Repair,2019,81459,18481
+Volkswagen,Taigun,Air Filter Replacement,2018,42954,2563
+Volkswagen,Taigun,Alternator Replacement,2023,14847,8678
+Volkswagen,Taigun,Timing Belt Replacement,2012,48073,11942
+Volkswagen,Taigun,Coolant Replacement,2024,115612,6109
+Volkswagen,Taigun,Engine Oil Change,2020,42972,6071
+Volkswagen,Taigun,Coolant Replacement,2021,20053,2827
+Volkswagen,Taigun,Fuel Pump Repair,2023,133998,13538
+Volkswagen,Taigun,Coolant Leak,2017,113483,9776
+Skoda,Kylaq,Battery Replacement,2020,5423,9676
+Skoda,Kylaq,Coolant Leak,2018,135185,4164
+Skoda,Kylaq,Spark Plug Replacement,2023,147103,6437
+Skoda,Kylaq,Radiator Repair,2017,28785,11102
+Skoda,Kylaq,Cabin Filter Replacement,2012,40384,3444
+Skoda,Kylaq,Wheel Balancing,2015,157587,8053
+Skoda,Kylaq,Suspension Repair,2017,105181,25755
+Skoda,Kylaq,Clutch Replacement,2021,138619,19558
+Skoda,Kylaq,Wheel Balancing,2013,189395,8168
+Skoda,Kylaq,Wheel Balancing,2024,152750,8638
+Skoda,Kylaq,Headlight Replacement,2014,188964,9225
+Skoda,Kylaq,Gearbox Repair,2015,198962,36257
+Skoda,Kylaq,Radiator Repair,2017,89722,9583
+Skoda,Kylaq,Brake Fluid Change,2022,60056,3440
+Skoda,Kylaq,Clutch Replacement,2012,124815,18341
+Skoda,Kylaq,Suspension Repair,2017,113103,9263
+Skoda,Kylaq,Wheel Alignment,2019,74179,3668
+Skoda,Kylaq,Cabin Filter Replacement,2025,119198,6692
+Skoda,Kylaq,Cabin Filter Replacement,2018,39161,3016
+Skoda,Kylaq,Starter Motor Repair,2014,173724,10854
+Skoda,Kushaq,Radiator Repair,2018,188643,11636
+Skoda,Kushaq,Clutch Replacement,2017,16331,10467
+Skoda,Kushaq,Gearbox Repair,2017,44564,30799
+Skoda,Kushaq,Tyre Replacement,2021,117903,37963
+Skoda,Kushaq,Wheel Balancing,2017,119082,6580
+Skoda,Kushaq,Alternator Replacement,2016,166931,21875
+Skoda,Kushaq,Alternator Replacement,2016,60432,14946
+Skoda,Kushaq,Air Filter Replacement,2020,183382,9797
+Skoda,Kushaq,Brake Pad Replacement,2025,144730,11516
+Skoda,Kushaq,Engine Overheating,2024,158077,28238
+Skoda,Kushaq,Starter Motor Repair,2022,12768,8429
+Skoda,Kushaq,Wheel Balancing,2022,80071,3578
+Skoda,Kushaq,Engine Oil Change,2022,171365,9727
+Skoda,Kushaq,Engine Overheating,2018,116975,27027
+Skoda,Kushaq,Headlight Replacement,2024,138081,7494
+Skoda,Kushaq,Coolant Leak,2014,169295,11496
+Skoda,Kushaq,Gearbox Repair,2015,77910,47743
+Skoda,Kushaq,Brake Pad Replacement,2012,7483,9284
+Skoda,Kushaq,Steering Rack Repair,2014,66734,20466
+Skoda,Kushaq,Radiator Repair,2012,118501,9182
+Skoda,Slavia,Battery Replacement,2012,145743,12276
+Skoda,Slavia,Alternator Replacement,2014,132104,18982
+Skoda,Slavia,Alternator Replacement,2019,69605,18385
+Skoda,Slavia,Gearbox Repair,2021,98506,58782
+Skoda,Slavia,Starter Motor Repair,2016,190847,15195
+Skoda,Slavia,Fuel Pump Repair,2015,183369,20673
+Skoda,Slavia,AC Repair,2019,158175,13597
+Skoda,Slavia,Brake Pad Replacement,2023,133262,11880
+Skoda,Slavia,Wheel Balancing,2013,54526,3268
+Skoda,Slavia,Shock Absorber Replacement,2015,197377,17120
+Skoda,Slavia,Air Filter Replacement,2012,111560,6513
+Skoda,Slavia,Gearbox Repair,2017,77499,26220
+Skoda,Slavia,Wheel Balancing,2012,32934,2951
+Skoda,Slavia,Brake Fluid Change,2013,38611,4129
+Skoda,Slavia,Spark Plug Replacement,2013,57001,4579
+Skoda,Slavia,Battery Replacement,2022,76138,8378
+Skoda,Slavia,Engine Overheating,2013,179483,17072
+Skoda,Slavia,Gearbox Repair,2018,111635,27150
+Skoda,Slavia,Coolant Leak,2019,62818,8460
+Skoda,Slavia,Tyre Replacement,2014,105086,39060
+Skoda,Superb,Coolant Leak,2020,181392,6891
+Skoda,Superb,Battery Replacement,2012,25411,8068
+Skoda,Superb,Tyre Replacement,2014,25128,25072
+Skoda,Superb,Headlight Replacement,2022,196655,8901
+Skoda,Superb,Coolant Leak,2019,52871,7410
+Skoda,Superb,Fuel Pump Repair,2012,147705,19989
+Skoda,Superb,Suspension Repair,2015,23697,10706
+Skoda,Superb,Engine Oil Change,2021,148021,5573
+Skoda,Superb,Fuel Pump Repair,2015,145893,13746
+Skoda,Superb,Air Filter Replacement,2020,12162,2432
+Skoda,Superb,Engine Oil Change,2024,120974,4582
+Skoda,Superb,Timing Belt Replacement,2013,52164,14526
+Skoda,Superb,Coolant Leak,2022,133874,10457
+Skoda,Superb,Clutch Replacement,2018,73774,13706
+Skoda,Superb,Clutch Replacement,2023,198585,16171
+Skoda,Superb,Wheel Balancing,2023,70673,4286
+Skoda,Superb,Coolant Replacement,2020,131430,3628
+Skoda,Superb,Gearbox Repair,2021,114687,41006
+Skoda,Superb,Wheel Balancing,2023,119342,6725
+Skoda,Superb,Headlight Replacement,2021,82970,6837
+Renault,Kwid,Fuel Pump Repair,2017,107088,8727
+Renault,Kwid,Wheel Balancing,2024,171477,3319
+Renault,Kwid,AC Repair,2013,97018,16939
+Renault,Kwid,Fuel Pump Repair,2021,34831,10396
+Renault,Kwid,Coolant Replacement,2020,114975,4639
+Renault,Kwid,Steering Rack Repair,2024,176942,22456
+Renault,Kwid,Shock Absorber Replacement,2023,76304,17733
+Renault,Kwid,Suspension Repair,2020,197916,18557
+Renault,Kwid,Engine Overheating,2019,158203,13963
+Renault,Kwid,Air Filter Replacement,2013,70024,3723
+Renault,Kwid,Coolant Leak,2013,53848,5177
+Renault,Kwid,Battery Replacement,2014,43800,6570
+Renault,Kwid,Steering Rack Repair,2015,99221,29101
+Renault,Kwid,Shock Absorber Replacement,2022,9185,5392
+Renault,Kwid,Fuel Pump Repair,2016,108856,13179
+Renault,Kwid,Timing Belt Replacement,2013,90932,16086
+Renault,Kwid,Wheel Alignment,2021,35405,2856
+Renault,Kwid,Brake Pad Replacement,2018,158634,14172
+Renault,Kwid,Gearbox Repair,2021,33911,35991
+Renault,Kwid,Steering Rack Repair,2018,193377,25043
+Renault,Kiger,Radiator Repair,2018,20076,9642
+Renault,Kiger,Suspension Repair,2017,22572,22254
+Renault,Kiger,Battery Replacement,2023,107321,9706
+Renault,Kiger,Shock Absorber Replacement,2021,147949,18765
+Renault,Kiger,Tyre Replacement,2014,85071,34152
+Renault,Kiger,AC Repair,2018,93255,11894
+Renault,Kiger,Coolant Leak,2023,157864,12118
+Renault,Kiger,Engine Oil Change,2023,43030,5098
+Renault,Kiger,Headlight Replacement,2024,199313,10945
+Renault,Kiger,Engine Oil Change,2017,194943,7668
+Renault,Kiger,Coolant Leak,2017,32518,6732
+Renault,Kiger,Tyre Replacement,2012,189552,33356
+Renault,Kiger,Alternator Replacement,2014,108743,18324
+Renault,Kiger,Shock Absorber Replacement,2012,64318,14384
+Renault,Kiger,Wheel Balancing,2013,168537,5090
+Renault,Kiger,Starter Motor Repair,2015,56724,6750
+Renault,Kiger,Coolant Replacement,2018,95451,5090
+Renault,Kiger,Headlight Replacement,2014,128004,11020
+Renault,Kiger,Suspension Repair,2023,7211,8822
+Renault,Kiger,Spark Plug Replacement,2013,100529,8589
+Renault,Triber,Coolant Replacement,2023,159721,7071
+Renault,Triber,Radiator Repair,2020,33693,8395
+Renault,Triber,Coolant Leak,2018,25996,3710
+Renault,Triber,Wheel Balancing,2018,8810,2251
+Renault,Triber,Air Filter Replacement,2024,30147,2434
+Renault,Triber,Tyre Replacement,2020,91512,21372
+Renault,Triber,Clutch Replacement,2022,125724,20975
+Renault,Triber,Wheel Alignment,2025,81929,3834
+Renault,Triber,Tyre Replacement,2013,75970,16866
+Renault,Triber,Air Filter Replacement,2012,36551,1775
+Renault,Triber,Brake Fluid Change,2024,18750,2825
+Renault,Triber,Engine Oil Change,2012,46362,6554
+Renault,Triber,Spark Plug Replacement,2013,56984,4860
+Renault,Triber,Coolant Replacement,2023,54788,3966
+Renault,Triber,Gearbox Repair,2012,57159,49708
+Renault,Triber,Shock Absorber Replacement,2016,184312,15106
+Renault,Triber,Cabin Filter Replacement,2013,90805,3552
+Renault,Triber,Battery Replacement,2017,93048,10257
+Renault,Triber,Suspension Repair,2017,153917,23030
+Renault,Triber,Battery Replacement,2022,83266,13885
+Nissan,Magnite,Coolant Leak,2017,193655,12823
+Nissan,Magnite,Radiator Repair,2012,92545,10960
+Nissan,Magnite,Wheel Balancing,2022,125368,4820
+Nissan,Magnite,Alternator Replacement,2016,156269,18858
+Nissan,Magnite,Alternator Replacement,2022,65741,15772
+Nissan,Magnite,Engine Oil Change,2022,85340,5892
+Nissan,Magnite,Cabin Filter Replacement,2019,35496,2503
+Nissan,Magnite,Alternator Replacement,2014,98266,18552
+Nissan,Magnite,Radiator Repair,2023,18027,6719
+Nissan,Magnite,Clutch Replacement,2022,7144,9582
+Nissan,Magnite,Shock Absorber Replacement,2012,24166,18554
+Nissan,Magnite,Coolant Leak,2013,20511,4387
+Nissan,Magnite,Radiator Repair,2019,21417,12677
+Nissan,Magnite,Tyre Replacement,2022,32083,37485
+Nissan,Magnite,Starter Motor Repair,2023,35073,7253
+Nissan,Magnite,Headlight Replacement,2015,160760,17494
+Nissan,Magnite,Brake Fluid Change,2021,137855,4758
+Nissan,Magnite,Gearbox Repair,2022,139230,28604
+Nissan,Magnite,Gearbox Repair,2025,57400,38267
+Nissan,Magnite,Timing Belt Replacement,2022,46086,10652
+Nissan,X-Trail,Headlight Replacement,2017,124162,10437
+Nissan,X-Trail,Spark Plug Replacement,2021,131508,5435
+Nissan,X-Trail,Air Filter Replacement,2024,192439,8276
+Nissan,X-Trail,Gearbox Repair,2021,21443,18779
+Nissan,X-Trail,Engine Oil Change,2025,192540,6942
+Nissan,X-Trail,Wheel Alignment,2013,151992,6363
+Nissan,X-Trail,Spark Plug Replacement,2024,82747,5324
+Nissan,X-Trail,Brake Fluid Change,2020,94049,6645
+Nissan,X-Trail,Wheel Balancing,2020,55758,3243
+Nissan,X-Trail,Gearbox Repair,2018,182153,59872
+Nissan,X-Trail,Shock Absorber Replacement,2015,16725,19580
+Nissan,X-Trail,Gearbox Repair,2015,54705,60219
+Nissan,X-Trail,Brake Fluid Change,2020,197618,11528
+Nissan,X-Trail,Cabin Filter Replacement,2014,147391,6045
+Nissan,X-Trail,Tyre Replacement,2023,113825,39681
+Nissan,X-Trail,Engine Overheating,2017,174593,33051
+Nissan,X-Trail,Alternator Replacement,2015,180929,18116
+Nissan,X-Trail,Air Filter Replacement,2019,166447,4580
+Nissan,X-Trail,Tyre Replacement,2013,38525,40764
+Nissan,X-Trail,Battery Replacement,2013,74214,13012
